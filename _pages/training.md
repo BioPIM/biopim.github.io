@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Training
+permalink: /training/
+description:
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [Processing-in-Memory Technologies, Courses, Data structures & algorithms in bioinformatics, Accelerating bioinformatics]
 horizontal: false
 ---
 

@@ -1,34 +1,63 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Mutlu":
+  - firstname: ["Onur", "O."]
+    url: https://people.inf.ethz.ch/omutlu/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Alkan":
+  - firstname: ["Can", "C."]
+    url: http://www.alkanlab.org
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Firtina":
+  - firstname: ["Can", "C."]
+    url: https://cfirtina.com
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Senol Cali":
+  - firstname: ["Damla", "D."]
+    url: https://damlasenolcali.github.io
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Cali":
+  - firstname: ["Damla Senol", "D. S.", "Damla"]
+    url: https://damlasenolcali.github.io
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Alser":
+  - firstname: ["Mohammed", "M."]
+    url: https://mealser.github.io
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Kim": 
+  - firstname: ["Jeremie", "J. S.", "Jeremie S.", "Jeremie S"]
+    url: https://scholar.google.com/citations?user=-pOH1s4AAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Cicek":
+  - firstname: ["Ercument", "A. Ercument", "A. E."]
+    url: http://ciceklab.cs.bilkent.edu.tr/ercument
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Ghose":
+  - firstname: ["Saugata", "S."]
+    url: https://ghose.web.illinois.edu
+
+"Gómez-Luna":
+  - firstname: ["Juan", "J."]
+    url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
+
+"Gomez-Luna":
+  - firstname: ["Juan", "J."]
+    url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
+
+"Luna":
+  - firstname: ["Juan Gomez", "J.G."]
+    url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
+
+"Tastan":
+  - firstname: ["Oznur", "O."]
+    url: http://people.sabanciuniv.edu/otastan/
+
+"Subramoney":
+  - firstname: ["Sreenivas", "S.", "Sree"]
+    url: https://in.linkedin.com/in/sreenivas-subramoney-i-am-hiring-6564521
+
+"Subramoneyon":
+  - firstname: ["Sreenivas", "S.", "Sree"]
+    url: https://in.linkedin.com/in/sreenivas-subramoney-i-am-hiring-6564521
+
+"Kalsi":
+  - firstname: ["Gurpreet Singh", "Gurpreet S.", "Gurpreet", "G. S."]
+    url: https://in.linkedin.com/in/gurpreet-singh-kalsi-bb75302

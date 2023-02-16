@@ -4,9 +4,12 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
+
+		<div class="header-bg"><div class="img"></div></div>
+		
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -28,43 +31,71 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
-
-          <!-- News -->
-          {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
-          {%- endif %}
-
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
-
-          <!-- Social -->
-          {%- if page.social %}
+			<!-- Social -->
+			{%- if page.social %}
             <div class="social">
+			  <div class="contact-note">
+				{{ site.contact_note }}
+			  </div>
               <div class="contact-icons">
                 {% include social.html %}
               </div>
-
-              <div class="contact-note">
-                {{ site.contact_note }}
-              </div>
-              
             </div>
           {%- endif %}
-        </article>
+		  {% if page.tweets -%}
+		  <div class="tweet">
+			{% twitter https://twitter.com/ProjectBioPIM maxwidth=300 maxheight=550 limit=5 %}
+		  </div>
+		  {%- endif %}
+		  {%- if page.profile.address %}
+		  <div class="address">
+			{{ page.profile.address }}
+		  </div>
+		  {%- endif %}
+		</div>
+		{%- endif %}
 
+		<div class="clearfix">
+		{{ content }}
+		</div>
+
+		<!-- News -->
+		{% if page.news -%}
+		<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+		{%- include news.html %}
+		{%- endif %}
+
+		<!-- Selected papers -->
+		{% if page.selected_papers -%}
+		<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
+		{%- include selected_papers.html %}
+		{%- endif %}
+
+		<a href="https://w3.bilkent.edu.tr/bilkent/"><img src="assets/img/bilkent.png" alt="BU" title="BU" style="height:100px;"></a>
+		<a href="https://ethz.ch/en.html"><img src="assets/img/ethz.png" alt="ETHZ" title="ETHZ" style="height: 100px;"></a>
+		<a href="https://www.pasteur.fr/en"><img src="assets/img/ip.png" alt="IP" title="IP" style="height: 100px;"></a>
+		<a href="https://www.cnrs.fr/en"><img src="assets/img/cnrs.png" alt="CNRS" title="CNRS" style="height: 100px;"></a>
+		<a href="https://www.zurich.ibm.com/"><img src="assets/img/ibmzurich.png" alt="IBM" title="IBM" style="height: 100px;"></a>
+		<a href="https://www.technion.ac.il/en/"><img src="assets/img/technion.png" alt="TECHNION" title="TECHNION" style="height: 100px;"></a>
+		<a href="https://www.upmem.com/"><img src="assets/img/upmem.jpg" alt="UPMEM" title="UPMEM" style="height: 100px;"></a>
+		<a href="https://www.biu.ac.il/"><img src="assets/img/barilanuniv.png" alt="Bar-Ilan" title="Bar-Ilan" style="height: 100px;"></a>
+
+		<table style="width: 100%;" border="0">
+			<tbody>
+			  <tr>
+				<td><img src="assets/img/logo_ec.jpg" alt="European Commission" title="European Commission" style="width: 240px; height: 166px;"><br>
+				</td>
+				<td>&nbsp;&nbsp; </td>
+				<td style="text-align: justify;">This project has received funding
+				  from the European Union's Horizon Europe programme for research
+				  and innovation under grant agreement No. 101047160. This
+				  document reflects the views of the author and does not reflect
+				  the views of the European Commission. While every effort has
+				  been made to ensure the accuracy and completeness of this
+				  document, the European Commission cannot be held responsible for
+				  errors or omissions, whatever their cause.</td>
+			  </tr>
+			</tbody>
+		  </table>
+        </article>
 </div>
