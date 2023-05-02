@@ -9,4 +9,6 @@ nav_order: 2
 
 ## External Experty Advisory Board
 
-*To be announced soon*
+*EEAB is still being formed*
+
+* [Jared Simpson](https://oicr.on.ca/researchers/jared-simpson/), Ontario Institute for Cancer Research

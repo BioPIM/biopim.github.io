@@ -19,7 +19,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Can Alkan](http://cs.bilkent.edu.tr/%7Ecalkan)** is an Associate Professor in [Computer Engineering](http://cs.bilkent.edu.tr/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). He has over 20 years of experience in algorithm design for bioinformatics and he has contributed to several large-scale genome sequencing efforts such as the [1000 Genomes Project](https://www.internationalgenome.org/) and [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle).
 
-**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/)
+**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/), [Klea Zambaku](https://www.linkedin.com/in/klea-zambaku-88992b199/), [Ecem İlgün](https://www.linkedin.com/in/ecemilgun/), [Ömer Yavuz Öztürk](https://www.linkedin.com/in/o-yavuz-ozturk/)
 
 # Team Leaders
 
@@ -27,13 +27,14 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Onur Mutlu](http://people.inf.ethz.ch/omutlu/)** is a Professor of Computer Science at [ETH Zürich](https://ethz.ch/en.html), in the [Information Technology and Electrical Engineering](https://www.ee.ethz.ch/) department. He is an expert in computer architecture, systems, security, and bioinformatics.
 
-**Team members:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/), [Can Firtina](https://cfirtina.com), [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/)
+**Team members:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/), [Can Firtina](https://cfirtina.com), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D), [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/)
 
 ---
 
 <img style="float: left; width:100px; padding-right:10px" src="../assets/img/ip.png">
 
 **[Rayan Chikhi](http://rayan.chikhi.name/)** is a researcher in bioinformatics and group leader of [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/) at [Institut Pasteur](https://www.pasteur.fr/en). His interests range from fundamental data structures and algorithms, to their implementation and execution in the context of DNA and RNA sequencing and de novo genome assembly.
+
 
 ---
 
@@ -49,7 +50,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Abu Sebastian](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-ASE)** is a Distinguished Research Staff Member & Manager at [IBM Research Zürich](https://www.zurich.ibm.com/). He was a contributor to several key projects in the space of storage and memory technologies and currently manages the research effort on in-memory computing at IBM Research Zurich.
 
-**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/)
+**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/), [William Simon](https://www.linkedin.com/in/williamsimon1/)
 
 ---
 
@@ -65,9 +66,9 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 <img style="float: left; width:100px; padding-right:10px;" src="../assets/img/upmem.jpg">
 
-**[Rémy Cimadomo](https://www.linkedin.com/in/remycimadomo/)** is the Business leader in AI, Computing and Processing in Memory at [UPMEM](https://www.upmem.com/). He is  managed tech projects that include machine learning, SaaS solutions, voice technologies, bots, and gaming.
+**[Yann Falevoz](https://www.linkedin.com/in/yannfalevoz/)** is Product Manager & Tech Marketing Project Manager at [UPMEM](https://www.upmem.com/). 
 
-**Team members:** [Yann Falevoz](https://www.linkedin.com/in/yannfalevoz/), [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/)
+**Team members:** [Aphélie Moisson-Franckhauser](https://www.linkedin.com/in/a-moisson/), [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/)
 
 ---
 
@@ -75,5 +76,5 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Leonid Yavits](https://engineering.biu.ac.il/en/node/11126)** is a Senior Lecturer at [Bar-Ilan University](https://www.biu.ac.il/en). He was formerly the founder of VisionTech and HorizonSemi, and he served as the Engineering Director at Broadcom Israel. Dr. Yavits is an expert in domain and application specific accelerators, especially using associative processors.
 
-**Team members:** Naomie Abecassis
+**Team members:** Naomie Abecassis, [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
 
