@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: BioPIM Publications
+title: Publications
 description:
 biopimyears: [2023]
 years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
