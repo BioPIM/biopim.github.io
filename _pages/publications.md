@@ -23,6 +23,7 @@ nav_order: 5
 
 <div class="publications">
 {%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
   {% bibliography -f related -q @*[year={{y}}]* %}
 {% endfor %}
 
