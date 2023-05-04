@@ -18,7 +18,7 @@ nav_order: 5
 </div>
 
 
-<div class="related_publications">
+<div class="publications">
 <h1>Related Publications</h1>
 {%- for y in page.years %}
   {% bibliography -f related -q @*[year={{y}}]* %}
