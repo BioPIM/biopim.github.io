@@ -16,3 +16,13 @@ nav_order: 5
 {% endfor %}
 
 </div>
+
+
+<div class="related_publications">
+<h1>Related Publications</h1>
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
