@@ -35,7 +35,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Rayan Chikhi](http://rayan.chikhi.name/)** is a researcher in bioinformatics and group leader of [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/) at [Institut Pasteur](https://www.pasteur.fr/en). His interests range from fundamental data structures and algorithms, to their implementation and execution in the context of DNA and RNA sequencing and de novo genome assembly.
 
-
+**Team members:** Erwan Drezen, [Yoann Dufresne](https://research.pasteur.fr/en/member/yoann-dufresne/), [Yoshihiro Shibuya](https://www.linkedin.com/in/yoshihiro-shibuya)
 ---
 
 <img style="float: left; width:100px; padding-right:10px" src="../assets/img/cnrs.png">
