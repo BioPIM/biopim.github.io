@@ -58,6 +58,8 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Ran Ginosar](https://webee.technion.ac.il/%7Eran/)** is a Professor of [Electrical Engineering](https://ece.technion.ac.il/) at [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/). He is an expert in many-core plural architectures, VLSI, neurochips, and asynchronous logic design.
 
+**Team members:** Naomie Abecassis 
+
 &nbsp;
 
 &nbsp;
@@ -76,5 +78,5 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Leonid Yavits](https://engineering.biu.ac.il/en/node/11126)** is a Senior Lecturer at [Bar-Ilan University](https://www.biu.ac.il/en). He was formerly the founder of VisionTech and HorizonSemi, and he served as the Engineering Director at Broadcom Israel. Dr. Yavits is an expert in domain and application specific accelerators, especially using associative processors.
 
-**Team members:** Naomie Abecassis, [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
+**Team members:** [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
 
