@@ -9,7 +9,7 @@ category: Conference Talks
 
 * **BIO-Arch 2023** First RECOMB Workshop on Hardware Acceleration of Bioinformatics Workloads
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ichXKktenw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/6ichXKktenw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
