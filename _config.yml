@@ -68,6 +68,7 @@ gitlab_username: # your GitLab user name
 twitter_username: ProjectBioPIM # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: groups/9358460 # your LinkedIn user name
+linkedin_groupname: 9358460 # your LinkedIn group name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
