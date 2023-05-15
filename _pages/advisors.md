@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## External Experty Advisory Board
+## External Expert Advisory Board
 
 *EEAB is still being formed*
 
