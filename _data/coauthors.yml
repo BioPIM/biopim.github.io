@@ -90,6 +90,46 @@
   - firstname: ["Zulal", "Zülal", "Z."]
     url: http://www.alkanlab.org/team/z%C3%BClal-bing%C3%B6l/
     
+"Bingol":
+  - firstname: ["Zulal", "Zülal", "Z."]
+    url: http://www.alkanlab.org/team/z%C3%BClal-bing%C3%B6l/
+
 "Ginosar":
   - firstname: ["Ran", "R."]
     url: https://webee.technion.ac.il/~ran/
+    
+"İlgün":
+  - firstname: ["Ecem", "E."]
+    url: http://www.alkanlab.org/team/ecem-ilg%C3%BCn/
+ 
+"Ilgun":
+  - firstname: ["Ecem", "E."]
+    url: http://www.alkanlab.org/team/ecem-ilg%C3%BCn/
+
+"Zambaku":
+  - firstname: ["Klea", "K."]
+    url: http://www.alkanlab.org/team/klea-zambaku/
+    
+"Ozturk":
+  - firstname: ["Omer Yavuz", "O. Yavuz", "O. Y.", "O.Y.", "Ömer Yavuz", "Ö. Yavuz", "Ö. Y.", "Ö.Y."]
+    url: http://www.alkanlab.org/team/%C3%B6mer-yavuz-%C3%B6zt%C3%BCrk/
+        
+"Öztürk":
+  - firstname: ["Omer Yavuz", "O. Yavuz", "O. Y.", "O.Y.", "Ömer Yavuz", "Ö. Yavuz", "Ö. Y.", "Ö.Y."]
+    url: http://www.alkanlab.org/team/%C3%B6mer-yavuz-%C3%B6zt%C3%BCrk/  
+
+"Roman Brenes"
+  - firstname: ["Ricardo", "R."]
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/
+    
+"Roman-Brenes"
+  - firstname: ["Ricardo", "R."]
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/
+    
+"Román-Brenes"
+  - firstname: ["Ricardo", "R."]
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/  
+    
+"Román Brenes"
+  - firstname: ["Ricardo", "R."]
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/  
