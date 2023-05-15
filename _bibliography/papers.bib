@@ -1,43 +1,23 @@
 ---
 ---
+@inproceedings{firtina_rawhash_2023,
+  booktitle={Proceedings of the 31st Annual Conference on Intelligent Systems for Molecular Biology (ISMB) and the 22nd European Conference on Computational Biology (ECCB)}, 
+	title = {{RawHash}: {Enabling} {Fast} and {Accurate} {Real}-{Time} {Analysis} of {Raw} {Nanopore} {Signals} for {Large} {Genomes}},
+	doi = {10.1093/bioinformatics/btad272},
+  url = {https://arxiv.org/abs/2301.09200},
+  html = {https://arxiv.org/abs/2301.09200},
+	abstract = {Nanopore sequencers generate electrical raw signals in real-time while sequencing long genomic strands. These raw signals can be analyzed as they are generated, providing an opportunity for real-time genome analysis. An important feature of nanopore sequencing, Read Until, can eject strands from sequencers without fully sequencing them, which provides opportunities to computationally reduce the sequencing time and cost. However, existing works utilizing Read Until either 1) require powerful computational resources that may not be available for portable sequencers or 2) lack scalability for large genomes, rendering them inaccurate or ineffective.
 
+We propose RawHash, the first mechanism that can accurately and efficiently perform real-time analysis of nanopore raw signals for large genomes using a hash-based similarity search. To enable this, RawHash ensures the signals corresponding to the same DNA content lead to the same hash value, regardless of the slight variations in these signals. RawHash achieves an accurate hash-based similarity search via an effective quantization of the raw signals such that signals corresponding to the same DNA content have the same quantized value and, subsequently, the same hash value.
 
-
-@article{gomez2023transpimlib,
-  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
-  series = {{ISPASS} '23},
-  title={TransPimLib: A Library for Efficient Transcendental Functions on Processing-in-Memory Systems},
-  author={Item, Maurus and G{\'o}mez-Luna, Juan and Guo, Yuxin and Oliveira, Geraldo F and Sadrosadati, Mohammad and Mutlu, Onur},
-  journal={arXiv preprint arXiv:2304.01951},
-  doi = {10.48550/arXiv.2304.01951},
-  url = {https://doi.org/10.48550/arXiv.2304.01951},
-  abstract = {Processing-in-memory (PIM) promises to alleviate the data movement bottleneck in modern computing systems. However, current real-world PIM systems have the inherent disadvantage that their hardware is more constrained than in conventional processors (CPU, GPU), due to the difficulty and cost of building processing elements near or inside the memory. As a result, general-purpose PIM architectures support fairly limited instruction sets and struggle to execute complex operations such as transcendental functions and other hard-to-calculate operations (e.g., square root). These operations are particularly important for some modern workloads, e.g., activation functions in machine learning applications.
-In order to provide support for transcendental (and other hard-to-calculate) functions in general-purpose PIM systems, we present \emph{TransPimLib}, a library that provides CORDIC-based and LUT-based methods for trigonometric functions, hyperbolic functions, exponentiation, logarithm, square root, etc. We develop an implementation of TransPimLib for the UPMEM PIM architecture and perform a thorough evaluation of TransPimLib's methods in terms of performance and accuracy, using microbenchmarks and three full workloads (Blackscholes, Sigmoid, Softmax). We open-source all our code and datasets at https://github.com/CMU-SAFARI/transpimlib.},
-  bibtex_show = true,
-  html={https://doi.org/10.48550/arXiv.2304.01951},
-  abbr={ISPASS},
-  month           = apr,
-  year={2023}
+We evaluate RawHash on three applications: 1) read mapping, 2) relative abundance estimation, and 3) contamination analysis. Our evaluations show that RawHash is the only tool that can provide high accuracy and high throughput for analyzing large genomes in real-time. When compared to the state-of-the-art techniques, UNCALLED and Sigmap, RawHash provides 1) 25.8x and 3.4x better average throughput and 2) significantly better accuracy for large genomes, respectively. Source code is available at https://github.com/CMUSAFARI/RawHash.},
+	author = {Firtina, Can and Ghiasi, Nika Mansouri and Lindegger, Joel and Singh, Gagandeep and Cavlak, Meryem Banu and Mao, Haiyu and Mutlu, Onur},
+	month = {jul},
+	year = {2023},
+  code={https://github.com/CMU-SAFARI/RawHash},
+  abbr={ISMB/ECCB},
+  bibtex_show=true,
 }
-
-@article{gomez2023evaluating,
-  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
-  series = {{ISPASS} '23},
-  title={Evaluating Machine Learning Workloads on Memory-Centric Computing Systems},
-  author={G{\'o}mez-Luna, Juan and Guo, Yuxin and Brocard, Sylvan and Legriel, Julien and Cimadomi, Remy and Oliveira, Geraldo F and Singh, Gagandeep and Mutlu, Onur},
-  journal={arXiv preprint arXiv:2207.07886},
-  doi = {10.48550/arXiv.2207.07886},
-  url = {https://doi.org/10.48550/arXiv.2207.07886},
-  abstract = {Training machine learning (ML) algorithms is a computationally intensive process, which is frequently memory-bound due to repeatedly accessing large training datasets. As a result, processor-centric systems (e.g., CPU, GPU) suffer from costly data movement between memory units and processing units, which consumes large amounts of energy and execution cycles. Memory-centric computing systems, i.e., with processing-in-memory (PIM) capabilities, can alleviate this data movement bottleneck.
-Our goal is to understand the potential of modern general-purpose PIM architectures to accelerate ML training. To do so, we (1) implement several representative classic ML algorithms (namely, linear regression, logistic regression, decision tree, K-Means clustering) on a real-world general-purpose PIM architecture, (2) rigorously evaluate and characterize them in terms of accuracy, performance and scaling, and (3) compare to their counterpart implementations on CPU and GPU. Our evaluation on a real memory-centric computing system with more than 2500 PIM cores shows that general-purpose PIM architectures can greatly accelerate memory-bound ML workloads, when the necessary operations and datatypes are natively supported by PIM hardware. For example, our PIM implementation of decision tree is 27x faster than a state-of-the-art CPU version on an 8-core Intel Xeon, and 1.34x faster than a state-of-the-art GPU version on an NVIDIA A100. Our K-Means clustering on PIM is 2.8x and 3.2x than state-of-the-art CPU and GPU versions, respectively.
-To our knowledge, our work is the first one to evaluate ML training on a real-world PIM architecture. We conclude with key observations, takeaways, and recommendations that can inspire users of ML workloads, programmers of PIM architectures, and hardware designers & architects of future memory-centric computing systems.},
-  bibtex_show = true,
-  html={https://arxiv.org/abs/2207.07886},
-  abbr={ISPASS},
-  month           = apr,
-  year={2023}
-}
-
 
 @inproceedings{mutlu2023accelerating,
   booktitle = {Proceedings of the 60th Design Automation Conference (DAC)},
@@ -54,6 +34,57 @@ This paper provides a brief review of the recent advancements in accelerating ge
   bibtex_show = true,
   html={https://doi.org/10.48550/arXiv.2305.00492},
   abbr={DAC}
+}
+
+@Article{Yavits2023,
+  author = {Leonid Yavits},
+  title  = {Will computing in memory become a new dawn of associative processors?},
+  journal   = {{IEEE} J. Emerg. Sel. Topics Circuits Syst.},
+  issn   = {2773-0646},
+  pages  = {100033},
+  volume = {4},
+  doi    = {10.1016/j.memori.2023.100033},
+  abstract = {Computer architecture faces an enormous challenge in recent years: while the demand for performance is constantly growing, the performance improvement of general-purpose CPU has almost stalled. Among the reasons are memory and power walls, due to which data transfer increasingly dominates computing. By significantly reducing data transfer, data-centric (or in-memory) computing promises to alleviate the memory and power walls. Associative processor is a non von Neumann computer invented in the 1960s but effectively cast aside until recently. It computes using associative memory in a perfect induction like fashion, using associative memory cells for both data storage and processing. Associative processor can be implemented using conventional CMOS as well as emerging memories. We show that associative processor can outperform state-of-the-art computing platforms by up to almost two orders of magnitude in a variety of data-intensive workloads.},
+  bibtex_show = true,
+  html={https://www.sciencedirect.com/science/article/pii/S2773064623000105},
+  abbr={MMDCS},
+  month           = jul,
+  year={2023}
+}
+
+@inproceedings{gomez2023transpimlib,
+  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+  series = {{ISPASS} '23},
+  title={TransPimLib: A Library for Efficient Transcendental Functions on Processing-in-Memory Systems},
+  author={Item, Maurus and G{\'o}mez-Luna, Juan and Guo, Yuxin and Oliveira, Geraldo F and Sadrosadati, Mohammad and Mutlu, Onur},
+  journal={arXiv preprint arXiv:2304.01951},
+  doi = {10.48550/arXiv.2304.01951},
+  url = {https://doi.org/10.48550/arXiv.2304.01951},
+  abstract = {Processing-in-memory (PIM) promises to alleviate the data movement bottleneck in modern computing systems. However, current real-world PIM systems have the inherent disadvantage that their hardware is more constrained than in conventional processors (CPU, GPU), due to the difficulty and cost of building processing elements near or inside the memory. As a result, general-purpose PIM architectures support fairly limited instruction sets and struggle to execute complex operations such as transcendental functions and other hard-to-calculate operations (e.g., square root). These operations are particularly important for some modern workloads, e.g., activation functions in machine learning applications.
+In order to provide support for transcendental (and other hard-to-calculate) functions in general-purpose PIM systems, we present \emph{TransPimLib}, a library that provides CORDIC-based and LUT-based methods for trigonometric functions, hyperbolic functions, exponentiation, logarithm, square root, etc. We develop an implementation of TransPimLib for the UPMEM PIM architecture and perform a thorough evaluation of TransPimLib's methods in terms of performance and accuracy, using microbenchmarks and three full workloads (Blackscholes, Sigmoid, Softmax). We open-source all our code and datasets at https://github.com/CMU-SAFARI/transpimlib.},
+  bibtex_show = true,
+  html={https://doi.org/10.48550/arXiv.2304.01951},
+  abbr={ISPASS},
+  month           = apr,
+  year={2023}
+}
+
+@inproceedings{gomez2023evaluating,
+  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+  series = {{ISPASS} '23},
+  title={Evaluating Machine Learning Workloads on Memory-Centric Computing Systems},
+  author={G{\'o}mez-Luna, Juan and Guo, Yuxin and Brocard, Sylvan and Legriel, Julien and Cimadomi, Remy and Oliveira, Geraldo F and Singh, Gagandeep and Mutlu, Onur},
+  journal={arXiv preprint arXiv:2207.07886},
+  doi = {10.48550/arXiv.2207.07886},
+  url = {https://doi.org/10.48550/arXiv.2207.07886},
+  abstract = {Training machine learning (ML) algorithms is a computationally intensive process, which is frequently memory-bound due to repeatedly accessing large training datasets. As a result, processor-centric systems (e.g., CPU, GPU) suffer from costly data movement between memory units and processing units, which consumes large amounts of energy and execution cycles. Memory-centric computing systems, i.e., with processing-in-memory (PIM) capabilities, can alleviate this data movement bottleneck.
+Our goal is to understand the potential of modern general-purpose PIM architectures to accelerate ML training. To do so, we (1) implement several representative classic ML algorithms (namely, linear regression, logistic regression, decision tree, K-Means clustering) on a real-world general-purpose PIM architecture, (2) rigorously evaluate and characterize them in terms of accuracy, performance and scaling, and (3) compare to their counterpart implementations on CPU and GPU. Our evaluation on a real memory-centric computing system with more than 2500 PIM cores shows that general-purpose PIM architectures can greatly accelerate memory-bound ML workloads, when the necessary operations and datatypes are natively supported by PIM hardware. For example, our PIM implementation of decision tree is 27x faster than a state-of-the-art CPU version on an 8-core Intel Xeon, and 1.34x faster than a state-of-the-art GPU version on an NVIDIA A100. Our K-Means clustering on PIM is 2.8x and 3.2x than state-of-the-art CPU and GPU versions, respectively.
+To our knowledge, our work is the first one to evaluate ML training on a real-world PIM architecture. We conclude with key observations, takeaways, and recommendations that can inspire users of ML workloads, programmers of PIM architectures, and hardware designers & architects of future memory-centric computing systems.},
+  bibtex_show = true,
+  html={https://arxiv.org/abs/2207.07886},
+  abbr={ISPASS},
+  month           = apr,
+  year={2023}
 }
 
 @Article{Lindegger2023,
@@ -128,20 +159,19 @@ This paper provides a brief review of the recent advancements in accelerating ge
   year={2023}
 }
 
-@Article{Yavits2023,
-  author = {Leonid Yavits},
-  title  = {Will computing in memory become a new dawn of associative processors?},
-  journal   = {{IEEE} J. Emerg. Sel. Topics Circuits Syst.},
-  issn   = {2773-0646},
-  pages  = {100033},
-  volume = {4},
-  doi    = {10.1016/j.memori.2023.100033},
-  abstract = {Computer architecture faces an enormous challenge in recent years: while the demand for performance is constantly growing, the performance improvement of general-purpose CPU has almost stalled. Among the reasons are memory and power walls, due to which data transfer increasingly dominates computing. By significantly reducing data transfer, data-centric (or in-memory) computing promises to alleviate the memory and power walls. Associative processor is a non von Neumann computer invented in the 1960s but effectively cast aside until recently. It computes using associative memory in a perfect induction like fashion, using associative memory cells for both data storage and processing. Associative processor can be implemented using conventional CMOS as well as emerging memories. We show that associative processor can outperform state-of-the-art computing platforms by up to almost two orders of magnitude in a variety of data-intensive workloads.},
-  bibtex_show = true,
-  html={https://www.sciencedirect.com/science/article/pii/S2773064623000105},
-  abbr={MMDCS},
-  month           = jul,
-  year={2023}
+@article{firtina_blend_2023,
+	title = {{BLEND}: a fast, memory-efficient and accurate mechanism to find fuzzy seed matches in genome analysis},
+	volume = {5},
+	url = {https://academic.oup.com/nargab/article/5/1/lqad004/6993940},
+  html = {https://arxiv.org/abs/2112.08687},
+	doi = {10.1093/nargab/lqad004},
+	abstract = {Generating the hash values of short subsequences, called seeds, enables quickly identifying similarities between genomic sequences by matching seeds with a single lookup of their hash values. However, these hash values can be used only for finding exact-matching seeds as the conventional hashing methods assign distinct hash values for different seeds, including highly similar seeds. Finding only exact-matching seeds causes either (i) increasing the use of the costly sequence alignment or (ii) limited sensitivity. We introduce BLEND, the first efficient and accurate mechanism that can identify both exact-matching and highly similar seeds with a single lookup of their hash values, called fuzzy seed matches. BLEND (i) utilizes a technique called SimHash, that can generate the same hash value for similar sets, and (ii) provides the proper mechanisms for using seeds as sets with the SimHash technique to find fuzzy seed matches efficiently. We show the benefits of BLEND when used in read overlapping and read mapping. For read overlapping, BLEND is faster by 2.4x–83.9x (on average 19.3x), has a lower memory footprint by 0.9x–14.1x (on average 3.8x), and finds higher quality overlaps leading to accurate de novo assemblies than the state-of-the-art tool, minimap2. For read mapping, BLEND is faster by 0.8x–4.1x (on average 1.7x) than minimap2. Source code is available at https://github.com/CMU-SAFARI/BLEND.},
+	number = {1},
+	journal = {NAR Genomics and Bioinformatics},
+	author = {Firtina, Can and Park, Jisung and Alser, Mohammed and Kim, Jeremie S and Cali, Damla Senol and Shahroodi, Taha and Ghiasi, Nika Mansouri and Singh, Gagandeep and Kanellopoulos, Konstantinos and Alkan, Can and Mutlu, Onur},
+	month = {mar},
+	year = {2023},
+	pages = {lqad004},
+  code={https://github.com/CMU-SAFARI/BLEND},
+  abbr={NARGAB},
 }
-
-
