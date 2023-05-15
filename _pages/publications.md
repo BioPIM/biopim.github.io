@@ -18,6 +18,15 @@ nav_order: 5
 
 </div>
 
+<h1>Posters</h1>
+
+<div class="publications">
+{%- for y in page.biopimyears %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f posters -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
 
 <h1>Related Publications</h1>
 

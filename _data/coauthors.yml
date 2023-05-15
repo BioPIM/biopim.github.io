@@ -38,6 +38,10 @@
   - firstname: ["Juan", "J."]
     url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
 
+"Gómez Luna":
+  - firstname: ["Juan", "J."]
+    url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
+
 "Gomez-Luna":
   - firstname: ["Juan", "J."]
     url: https://ee.ethz.ch/the-department/people-a-z/person-detail.MjQxMjgy.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html
@@ -61,3 +65,31 @@
 "Kalsi":
   - firstname: ["Gurpreet Singh", "Gurpreet S.", "Gurpreet", "G. S."]
     url: https://in.linkedin.com/in/gurpreet-singh-kalsi-bb75302
+    
+"Chikhi":
+  - firstname: ["Rayan", "R."]
+    url: http://rayan.chikhi.name/
+    
+"Yavits":
+  - firstname: ["Leonid", "L."]
+    url: https://scholar.google.co.il/citations?user=ARyufyQAAAAJ&hl=en
+    
+"Sebastian":
+  - firstname: ["Abu", "A."]  
+    url: https://research.ibm.com/people/abu-sebastian
+
+"Jahshan":   
+  - firstname: ["Zuher", "Z."] 
+    url: https://www.linkedin.com/in/zuher-jahshan-7a7199196/
+    
+"Lavenier":
+  - firstname: ["Dominique", "D."]
+    url: https://lavenier.net/homepage/
+    
+"Bingöl":
+  - firstname: ["Zulal", "Zülal", "Z."]
+    url: http://www.alkanlab.org/team/z%C3%BClal-bing%C3%B6l/
+    
+"Ginosar":
+  - firstname: ["Ran", "R."]
+    url: https://webee.technion.ac.il/~ran/
