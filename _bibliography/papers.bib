@@ -7,7 +7,7 @@
   booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
   series = {{ISPASS} '23},
   title={TransPimLib: A Library for Efficient Transcendental Functions on Processing-in-Memory Systems},
-  author={G{\'o}mez-Luna, Juan and Guo, Yuxin and Oliveira, Geraldo F and Sadrosadati, Mohammad and Mutlu, Onur},
+  author={Item, Maurus and G{\'o}mez-Luna, Juan and Guo, Yuxin and Oliveira, Geraldo F and Sadrosadati, Mohammad and Mutlu, Onur},
   journal={arXiv preprint arXiv:2304.01951},
   doi = {10.48550/arXiv.2304.01951},
   url = {https://doi.org/10.48550/arXiv.2304.01951},
@@ -15,6 +15,23 @@
 In order to provide support for transcendental (and other hard-to-calculate) functions in general-purpose PIM systems, we present \emph{TransPimLib}, a library that provides CORDIC-based and LUT-based methods for trigonometric functions, hyperbolic functions, exponentiation, logarithm, square root, etc. We develop an implementation of TransPimLib for the UPMEM PIM architecture and perform a thorough evaluation of TransPimLib's methods in terms of performance and accuracy, using microbenchmarks and three full workloads (Blackscholes, Sigmoid, Softmax). We open-source all our code and datasets at https://github.com/CMU-SAFARI/transpimlib.},
   bibtex_show = true,
   html={https://doi.org/10.48550/arXiv.2304.01951},
+  abbr={ISPASS},
+  year={2023}
+}
+
+@article{gomez2023evaluating		,
+  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+  series = {{ISPASS} '23},
+  title={Evaluating Machine Learning Workloads on Memory-Centric Computing Systems},
+  author={G{\'o}mez-Luna, Juan and Guo, Yuxin and Brocard, Sylvan and Legriel, Julien and Cimadomi, Remy and Oliveira, Geraldo F and Singh, Gagandeep and Mutlu, Onur},
+  journal={arXiv preprint arXiv:2207.07886},
+  doi = {10.48550/arXiv.2207.07886},
+  url = {https://doi.org/10.48550/arXiv.2207.07886},
+  abstract = {Training machine learning (ML) algorithms is a computationally intensive process, which is frequently memory-bound due to repeatedly accessing large training datasets. As a result, processor-centric systems (e.g., CPU, GPU) suffer from costly data movement between memory units and processing units, which consumes large amounts of energy and execution cycles. Memory-centric computing systems, i.e., with processing-in-memory (PIM) capabilities, can alleviate this data movement bottleneck.
+Our goal is to understand the potential of modern general-purpose PIM architectures to accelerate ML training. To do so, we (1) implement several representative classic ML algorithms (namely, linear regression, logistic regression, decision tree, K-Means clustering) on a real-world general-purpose PIM architecture, (2) rigorously evaluate and characterize them in terms of accuracy, performance and scaling, and (3) compare to their counterpart implementations on CPU and GPU. Our evaluation on a real memory-centric computing system with more than 2500 PIM cores shows that general-purpose PIM architectures can greatly accelerate memory-bound ML workloads, when the necessary operations and datatypes are natively supported by PIM hardware. For example, our PIM implementation of decision tree is 27× faster than a state-of-the-art CPU version on an 8-core Intel Xeon, and 1.34× faster than a state-of-the-art GPU version on an NVIDIA A100. Our K-Means clustering on PIM is 2.8× and 3.2× than state-of-the-art CPU and GPU versions, respectively.
+To our knowledge, our work is the first one to evaluate ML training on a real-world PIM architecture. We conclude with key observations, takeaways, and recommendations that can inspire users of ML workloads, programmers of PIM architectures, and hardware designers & architects of future memory-centric computing systems.},
+  bibtex_show = true,
+  html={https://arxiv.org/abs/2207.07886},
   abbr={ISPASS},
   year={2023}
 }
