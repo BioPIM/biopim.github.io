@@ -1,6 +1,25 @@
 ---
 ---
 
+
+
+@article{gomez2023transpimlib,
+  booktitle = {Proceedings of the 24th International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+  series = {{ISPASS} '23},
+  title={TransPimLib: A Library for Efficient Transcendental Functions on Processing-in-Memory Systems},
+  author={G{\'o}mez-Luna, Juan and Guo, Yuxin and Oliveira, Geraldo F and Sadrosadati, Mohammad and Mutlu, Onur},
+  journal={arXiv preprint arXiv:2304.01951},
+  doi = {10.48550/arXiv.2304.01951},
+  url = {https://doi.org/10.48550/arXiv.2304.01951},
+  abstract = {Processing-in-memory (PIM) promises to alleviate the data movement bottleneck in modern computing systems. However, current real-world PIM systems have the inherent disadvantage that their hardware is more constrained than in conventional processors (CPU, GPU), due to the difficulty and cost of building processing elements near or inside the memory. As a result, general-purpose PIM architectures support fairly limited instruction sets and struggle to execute complex operations such as transcendental functions and other hard-to-calculate operations (e.g., square root). These operations are particularly important for some modern workloads, e.g., activation functions in machine learning applications.
+In order to provide support for transcendental (and other hard-to-calculate) functions in general-purpose PIM systems, we present \emph{TransPimLib}, a library that provides CORDIC-based and LUT-based methods for trigonometric functions, hyperbolic functions, exponentiation, logarithm, square root, etc. We develop an implementation of TransPimLib for the UPMEM PIM architecture and perform a thorough evaluation of TransPimLib's methods in terms of performance and accuracy, using microbenchmarks and three full workloads (Blackscholes, Sigmoid, Softmax). We open-source all our code and datasets at https://github.com/CMU-SAFARI/transpimlib.},
+  bibtex_show = true,
+  html={https://doi.org/10.48550/arXiv.2304.01951},
+  abbr={ISPASS},
+  year={2023}
+}
+
+
 @inproceedings{mutlu2023accelerating,
   booktitle = {Proceedings of the 60th Design Automation Conference (DAC)},
   series = {{DAC} '23},
@@ -17,4 +36,91 @@ This paper provides a brief review of the recent advancements in accelerating ge
   html={https://doi.org/10.48550/arXiv.2305.00492},
   abbr={DAC}
 }
+
+@Article{Lindegger2023,
+  author          = {Lindegger, Joël and Cali, Damla Senol and Alser, Mohammed and Gómez-Luna, Juan and Ghiasi, Nika Mansouri and Mutlu, Onur},
+  journal         = {Bioinformatics},
+  title           = {Scrooge: A Fast and Memory-Frugal Genomic Sequence Aligner for {CPUs}, {GPUs}, and {ASICs}.},
+  year            = {2023},
+  issn            = {1367-4811},
+  month           = mar,
+  abstract        = {Pairwise sequence alignment is a very time-consuming step in common bioinformatics pipelines. Speeding up this step requires heuristics, efficient implementations, and/or hardware acceleration. A promising candidate for all of the above is the recently proposed GenASM algorithm. We identify and address three inefficiencies in the GenASM algorithm: it has a high amount of data movement, a large memory footprint, and does some unnecessary work. We propose Scrooge, a fast and memory-frugal genomic sequence aligner. Scrooge includes three novel algorithmic improvements which reduce the data movement, memory footprint, and the number of operations in the GenASM algorithm. We provide efficient open-source implementations of the Scrooge algorithm for CPUs and GPUs, which demonstrate the significant benefits of our algorithmic improvements. For long reads, the CPU version of Scrooge achieves a 20.1x, 1.7x, and 2.1x speedup over KSW2, Edlib, and a CPU implementation of GenASM, respectively. The GPU version of Scrooge achieves a 4.0x 80.4x, 6.8x, 12.6x and 5.9x speedup over the CPU version of Scrooge, KSW2, Edlib, Darwin-GPU, and a GPU implementation of GenASM, respectively. We estimate an ASIC implementation of Scrooge to use 3.6x less chip area and 2.1x less power than a GenASM ASIC while maintaining the same throughput. Further, we systematically analyze the throughput and accuracy behavior of GenASM and Scrooge under various configurations. As the best configuration of Scrooge depends on the computing platform, we make several observations that can help guide future implementations of Scrooge. https://github.com/CMU-SAFARI/Scrooge.},
+  citation-subset = {IM},
+  country         = {England},
+  doi             = {10.1093/bioinformatics/btad151},
+  issn-linking    = {1367-4803},
+  nlm-id          = {9808944},
+  owner           = {NLM},
+  pii             = {btad151},
+  pmid            = {36961334},
+  pubmodel        = {Print-Electronic},
+  pubstate        = {aheadofprint},
+  revised         = {2023-03-24},
+  bibtex_show = true,
+  html={https://doi.org/10.1093/bioinformatics/btad155},
+  abbr={Bioinformatics},
+  year={2023}
+}
+
+@Article{Diab2023,
+  author          = {Diab, Safaa and Nassereldine, Amir and Alser, Mohammed and Gómez Luna, Juan and Mutlu, Onur and El Hajj, Izzat},
+  journal         = {Bioinformatics},
+  title           = {A framework for high-throughput sequence alignment using real processing-in-memory systems.},
+  issn            = {1367-4811},
+  month           = may,
+  volume          = {39},
+  abstract        = {Sequence alignment is a memory bound computation whose performance in modern systems is limited by the memory bandwidth bottleneck. Processing-in-memory (PIM) architectures alleviate this bottleneck by providing the memory with computing competencies. We propose Alignment-in-Memory (AIM), a framework for high-throughput sequence alignment using PIM, and evaluate it on UPMEM, the first publicly available general-purpose programmable PIM system. Our evaluation shows that a real PIM system can substantially outperform server-grade multi-threaded CPU systems running at full-scale when performing sequence alignment for a variety of algorithms, read lengths, and edit distance thresholds. We hope that our findings inspire more work on creating and accelerating bioinformatics algorithms for such real PIM systems. Our code is available at https://github.com/safaad/aim.},
+  citation-subset = {IM},
+  completed       = {2023-05-08},
+  country         = {England},
+  doi             = {10.1093/bioinformatics/btad155},
+  issn-linking    = {1367-4803},
+  issue           = {5},
+  keywords        = {Sequence Alignment; Algorithms; Software; Computational Biology; Sequence Analysis, DNA; High-Throughput Nucleotide Sequencing},
+  nlm-id          = {9808944},
+  owner           = {NLM},
+  pii             = {btad155},
+  pmc             = {PMC10159653},
+  pmid            = {36971586},
+  pubmodel        = {Print},
+  pubstate        = {ppublish},
+  revised         = {2023-05-09},
+  bibtex_show = true,
+  html={https://doi.org/10.1093/bioinformatics/btad151},
+  abbr={Bioinformatics},
+  year={2023}
+}
+
+@Article{Garzon2023,
+  author    = {Esteban Garz{\'{o}}n and Marco Lanuzza and Adam Teman and Leonid Yavits},
+  journal   = {{IEEE} J. Emerg. Sel. Topics Circuits Syst.},
+  title     = {AM4: {MRAM} Crossbar Based {CAM/TCAM/ACAM/AP} for In-Memory Computing},
+  abstract  = {In-memory computing seeks to minimize data movement and alleviate the memory wall by computing in-situ, in the same place that the data is located. One of the key emerging technologies that promises to enable such computing-in-memory is spin-transfer torque magnetic tunnel junction (STT-MTJ). This paper proposes AM4, a combined STT-MTJ-based Content Addressable Memory (CAM), Ternary CAM (TCAM), approximate matching (similarity search) CAM (ACAM), and in-memory Associative Processor (AP) design, inspired by the recently announced Samsung MRAM crossbar. We demonstrate and evaluate the performance and energy-efficiency of the AM4-based AP using a variety of data intensive workloads. We show that an AM4-based AP outperforms state-of-the-art solutions both in performance (with the average speedup of about 10 x) and energy-efficiency (by about 60 x on average).},
+  number    = {1},
+  pages     = {408--421},
+  volume    = {13},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/journals/esticas/GarzonLTY23.bib},
+  doi       = {10.1109/JETCAS.2023.3243222},
+  bibtex_show = true,
+  html={https://ieeexplore.ieee.org/abstract/document/10040683},
+  abbr={JETCAS},
+  year={2023}
+}
+
+@Article{Yavits2023,
+  author = {Leonid Yavits},
+  title  = {Will computing in memory become a new dawn of associative processors?},
+  journal   = {{IEEE} J. Emerg. Sel. Topics Circuits Syst.},
+  issn   = {2773-0646},
+  pages  = {100033},
+  volume = {4},
+  doi    = {10.1016/j.memori.2023.100033},
+  abstract = {Computer architecture faces an enormous challenge in recent years: while the demand for performance is constantly growing, the performance improvement of general-purpose CPU has almost stalled. Among the reasons are memory and power walls, due to which data transfer increasingly dominates computing. By significantly reducing data transfer, data-centric (or in-memory) computing promises to alleviate the memory and power walls. Associative processor is a non von Neumann computer invented in the 1960s but effectively cast aside until recently. It computes using associative memory in a perfect induction like fashion, using associative memory cells for both data storage and processing. Associative processor can be implemented using conventional CMOS as well as emerging memories. We show that associative processor can outperform state-of-the-art computing platforms by up to almost two orders of magnitude in a variety of data-intensive workloads.},
+  bibtex_show = true,
+  html={https://www.sciencedirect.com/science/article/pii/S2773064623000105},
+  abbr={MMDCS},
+  year={2023}
+}
+
 
