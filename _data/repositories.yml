@@ -1,7 +1,15 @@
 github_repos:
-  - CMU-SAFARI/GenASM
-  - CMU-SAFARI/GRIM
-
+  - BioPIM/GenASM
+  - BioPIM/GRIM
+  - BioPIM/prim-benchmarks
+  - BioPIM/BLEND
+  - BioPIM/DAMOV
+  - BioPIM/RawHash
+  - BioPIM/alignment-in-memory
+  - BioPIM/pim-ml
+  - BioPIM/transpimlib
+  - BioPIM/Scrooge
+  
 github_users:
   - calkan
   - omutlu
@@ -17,3 +25,4 @@ github_users:
   - william-simon
   - yavits
   - zuherJahshan
+  
