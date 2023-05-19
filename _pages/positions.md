@@ -49,6 +49,7 @@ We are looking for enthusiastic PhD students interested in applying new in-memor
 * Strong work ethic
 
 <img src="../assets/img/basecalling_pipeline.png" alt="Basecalling Pipeline"  width="600">
+
 **Figure 1:** Basecalling pipeline with DNN (a), decoder block (b), and downstream analysis (c).
 
 **For background and past works, see:**
