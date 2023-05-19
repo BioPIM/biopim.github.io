@@ -48,7 +48,7 @@ We are looking for enthusiastic PhD students interested in applying new in-memor
 * Interest in bioinformatics
 * Strong work ethic
 
-![Figure 1: Basecalling pipeline with DNN (a), decoder block (b), and downstream analysis (c).](../assets/img/basecalling_pipeline.png)
+<img src="../assets/img/basecalling_pipeline.png" alt="Basecalling Pipeline"  width="600">
 **Figure 1:** Basecalling pipeline with DNN (a), decoder block (b), and downstream analysis (c).
 
 **For background and past works, see:**
