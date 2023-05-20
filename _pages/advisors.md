@@ -37,7 +37,7 @@ Paul Medvedev is an Associate Professor in the Department of Computer Science an
 
 University of Maryland
 
-Uzi Vishkin's research aspirations evolved over the years from that of a parallel algorithms theory specialist to more of a generalist. The deep question guiding his work has been whether it is feasible to align the theory of parallel algorithms, parallel programming and many-core hardware into a coherent computing stack for the processor of the future. Along with his research team, he developed the only current approach that enables that, while vendor-supported approaches have given up on their prior objective, as explained next.
+Uzi Vishkin's research aspirations evolved over the years from that of a parallel algorithms theory specialist to more of a generalist. The deep question guiding his work has been whether it is feasible to align the theory of parallel algorithms, parallel programming and many-core hardware into a coherent computing stack for the processor of the future. Along with his research team, he developed the only current approach that enables that, while vendor-supported approaches have given up on their prior objective.
 
 <br clear="left"/>
 
