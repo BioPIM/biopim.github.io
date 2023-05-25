@@ -43,7 +43,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Dominique Lavenier](https://lavenier.net/homepage/)** is a [CNRS](https://www.cnrs.fr/en) Research Director and the [GenScale](https://team.inria.fr/genscale/) team leader at [IRISA](https://www.irisa.fr/english/)/[INRIA](https://www.inria.fr/en). His main research interests are bioinformatics, genomics, parallelism, computer design and optimization.
 
-**Team members:** [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/)
+**Team members:** [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/), [Florestan de Moor](https://team.inria.fr/wide/team/florestan-de-moor/)
 
 ---
 
@@ -59,11 +59,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Ran Ginosar](https://webee.technion.ac.il/%7Eran/)** is a Professor of [Electrical Engineering](https://ece.technion.ac.il/) at [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/). He is an expert in many-core plural architectures, VLSI, neurochips, and asynchronous logic design.
 
-**Team members:** Naomie Abecassis 
-
-&nbsp;
-
-&nbsp;
+**Team members:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273)
 
 ---
 
@@ -72,6 +68,8 @@ Engagement of partners from different but complementary backgrounds will brighte
 **[Yann Falevoz](https://www.linkedin.com/in/yannfalevoz/)** is Product Manager & Tech Marketing Project Manager at [UPMEM](https://www.upmem.com/). 
 
 **Team members:** [Aphélie Moisson-Franckhauser](https://www.linkedin.com/in/a-moisson/), [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/)
+
+&nbsp;
 
 ---
 
