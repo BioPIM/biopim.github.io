@@ -55,11 +55,13 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 ---
 
-<img style="float: left; height:116px; padding-right:10px;" src="../assets/img/technion.png">
+<img style="float: left; height:100px; padding-right:10px;" src="../assets/img/technion.png">
 
 **[Ran Ginosar](https://webee.technion.ac.il/%7Eran/)** is a Professor of [Electrical Engineering](https://ece.technion.ac.il/) at [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/). He is an expert in many-core plural architectures, VLSI, neurochips, and asynchronous logic design.
 
 **Team members:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273)
+
+&nbsp;
 
 ---
 
