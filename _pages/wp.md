@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /wp/
-title: Work Packages
+title: WPs
 description:
 nav: true
 nav_order: 3
