@@ -164,6 +164,7 @@ To our knowledge, our work is the first one to evaluate ML training on a real-wo
 	volume = {5},
 	url = {https://academic.oup.com/nargab/article/5/1/lqad004/6993940},
   html = {https://arxiv.org/abs/2112.08687},
+    bibtex_show = true,
 	doi = {10.1093/nargab/lqad004},
 	abstract = {Generating the hash values of short subsequences, called seeds, enables quickly identifying similarities between genomic sequences by matching seeds with a single lookup of their hash values. However, these hash values can be used only for finding exact-matching seeds as the conventional hashing methods assign distinct hash values for different seeds, including highly similar seeds. Finding only exact-matching seeds causes either (i) increasing the use of the costly sequence alignment or (ii) limited sensitivity. We introduce BLEND, the first efficient and accurate mechanism that can identify both exact-matching and highly similar seeds with a single lookup of their hash values, called fuzzy seed matches. BLEND (i) utilizes a technique called SimHash, that can generate the same hash value for similar sets, and (ii) provides the proper mechanisms for using seeds as sets with the SimHash technique to find fuzzy seed matches efficiently. We show the benefits of BLEND when used in read overlapping and read mapping. For read overlapping, BLEND is faster by 2.4x–83.9x (on average 19.3x), has a lower memory footprint by 0.9x–14.1x (on average 3.8x), and finds higher quality overlaps leading to accurate de novo assemblies than the state-of-the-art tool, minimap2. For read mapping, BLEND is faster by 0.8x–4.1x (on average 1.7x) than minimap2. Source code is available at https://github.com/CMU-SAFARI/BLEND.},
 	number = {1},
@@ -175,3 +176,22 @@ To our knowledge, our work is the first one to evaluate ML training on a real-wo
   code={https://github.com/CMU-SAFARI/BLEND},
   abbr={NARGAB},
 }
+
+@Article{Garzon2023a,
+  author   = {Garzón, Esteban and Yavits, Leonid and Teman, Adam and Lanuzza, Marco},
+  journal  = {Chips},
+  title    = {Approximate Content-Addressable Memories: A Review},
+  year     = {2023},
+  issn     = {2674-0729},
+  number   = {2},
+  pages    = {70--82},
+  volume   = {2},
+  abstract = {Content-addressable memory (CAM) has been part of the memory market for more than five decades. CAM can carry out a single clock cycle lookup based on the content rather than an address. Thanks to this attractive feature, CAM is utilized in memory systems where a high-speed content lookup technique is required. However, typical CAM applications only support exact matching, as opposed to approximate matching, where a certain Hamming distance (several mismatching characters between a query pattern and the dataset stored in CAM) needs to be tolerated. Recent interest in approximate search has led to the development of new CAM-based alternatives, accelerating the processing of large data workloads in the realm of big data, genomics, and other data-intensive applications. In this review, we provide an overview of approximate CAM and describe its current and potential applications that would benefit from approximate search computing.},
+  doi      = {10.3390/chips2020005},
+  owner    = {calkan},
+  url      = {https://www.mdpi.com/2674-0729/2/2/5},
+  bibtex_show = true,
+  html      = {https://www.mdpi.com/2674-0729/2/2/5},
+  abbr = {Chips},
+}
+
