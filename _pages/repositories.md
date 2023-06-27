@@ -28,3 +28,11 @@ nav_order: 6
   {% endfor %}
 </div>
 {% endif %}
+
+---
+
+## Zenodo Repository
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+	<a href="https://zenodo.org/communities/biopim/">BioPIM Project Zenodo Community</a>
+</div>
