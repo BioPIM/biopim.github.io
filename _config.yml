@@ -67,6 +67,7 @@ github_username: BioPIM # your GitHub user name
 gitlab_username: # your GitLab user name
 dockerhub_username: biopim
 twitter_username: ProjectBioPIM # your Twitter handle
+zenodo_community: biopim # zenodo archive
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username:  # your LinkedIn user name
 linkedin_groupname: 9358460 # your LinkedIn group name

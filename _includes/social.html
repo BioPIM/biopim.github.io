@@ -28,6 +28,9 @@
             {%- if site.dockerhub_username -%}
             <a href="https://hub.docker.com/u/{{ site.dockerhub_username }}" title="DockerHub"><i class="fab fa-docker"></i></a>
             {% endif %}
+            {%- if site.zenodo_community -%}
+            <a href="https://zenodo.org/communities/{{ site.zenodo_community }}" title="Zenodo"><i class="fas fa-archive"></i></a>
+            {% endif %}
             {%- if site.linkedin_username -%}
             <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             {% endif %}
