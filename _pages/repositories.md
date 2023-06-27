@@ -7,6 +7,15 @@ nav: true
 nav_order: 6
 ---
 
+
+## Zenodo Repository
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+	<a href="https://zenodo.org/communities/biopim/">BioPIM Project Zenodo Community</a>
+</div>
+
+---
+
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
@@ -29,10 +38,3 @@ nav_order: 6
 </div>
 {% endif %}
 
----
-
-## Zenodo Repository
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-	<a href="https://zenodo.org/communities/biopim/">BioPIM Project Zenodo Community</a>
-</div>
