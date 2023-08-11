@@ -19,6 +19,22 @@ We evaluate RawHash on three applications: 1) read mapping, 2) relative abundanc
   bibtex_show=true,
 }
 
+@inproceedings{abecasis2023,
+  booktitle={Proceedings of the 5th Workshop on Accelerator Architecture in Computational Biology and Bioinformatics (AACBB)}, 
+	title = {{GAPiM}: a hardware acceleration of Genome Analysis pipeline using Processing in Memory},
+	doi = {10.1101/2023.07.26.550623v1},
+  url = {https://www.biorxiv.org/content/10.1101/2023.07.26.550623v1},
+  html = {https://www.biorxiv.org/content/10.1101/2023.07.26.550623v1},
+	abstract = {Variant calling is a fundamental stage in genome analysis that identifies mutations (variations) in a sequenced genome relative to a known reference genome. Pair-HMM is a key part of the variant calling algorithm and its most compute-intensive part. In recent years, Processing-in-Memory (PiM) solutions, which consist of placing compute capabilities near/inside memory, have been proposed to speed up the genome analysis pipeline. We implement the Pair-HMM algorithm on a commercial PiM platform developed by UPMEM. We modify the Pair-HMM algorithm to make it more suitable for PiM execution with acceptable loss of accuracy. We evaluate our implementation on single chromosomes and whole genome sequencing datasets, demonstrating up to 2x speedup compared to existing CPU accelerations and up to 3x speedup compared to FPGA accelerations.},
+	author = {Abecassis, Naomie and G{\'o}mez-Luna, Juan and Mutlu, Onur and Ginosar, Ran and Moisson-Franckhauser, Aph{\'e}lie and Yavits, Leonid},
+	month = {jun},
+	year = {2023},
+  code={https://github.com/naomieab/UPMEM_HAPLOTYPECALLER},
+  abbr={AACBB},
+  bibtex_show=true,
+}
+
+
 @inproceedings{mutlu2023accelerating,
   booktitle = {Proceedings of the 60th Design Automation Conference (DAC)},
   series = {{DAC} '23},

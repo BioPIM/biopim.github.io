@@ -59,7 +59,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Ran Ginosar](https://webee.technion.ac.il/%7Eran/)** is a Professor of [Electrical Engineering](https://ece.technion.ac.il/) at [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/). He is an expert in many-core plural architectures, VLSI, neurochips, and asynchronous logic design.
 
-**Team members:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273)
+**Team members:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273), [Robert Hanhan](https://www.linkedin.com/in/robert-hanhan-0b57991a3/), [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
 
 &nbsp;
 
