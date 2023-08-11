@@ -255,8 +255,11 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Alkan]
-  first_name: [Can]
+#  last_name: [Alkan]
+#  first_name: [Can]
+
+  last_name: 
+  first_name: 
 
   style: ieee
   locale: en
