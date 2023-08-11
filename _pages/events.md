@@ -7,7 +7,7 @@ nav: true
 nav_order: 9
 ---
 
-* [UPMEM's Euro-Par Minisymposium: Unleash the Power of PIM!](https://www.upmem.com/abumpimp-2023/)
+* [UPMEM's Euro-Par Minisymposium: Unleash the Power of PIM!](https://www.upmem.com/abumpimp-2023/): August 29, 2023; Limassol, Cyprus
 
 	Join us at the Euro-Par Minisymposium organized by UPMEM on August 29, 2023, to explore the Applications and Benefits of UPMEM commercial Massively Parallel Processing-In-Memory Platform. Discover how our groundbreaking PIM architecture can accelerate data-intensive applications in genomics, analytics, AI, and more.
 
@@ -21,6 +21,6 @@ nav_order: 9
 	For details on the program and speakers, visit: [ABUMPIMP 2023](https://www.upmem.com/abumpimp-2023)
 	For registration, visit: [Euro-Par 2023](https://2023.euro-par.org/)
 	
-* [BIO-Arch: Workshop on Hardware Acceleration of Bioinformatics Workloads](https://safari.ethz.ch/recomb23-arch-workshop/)
+* [BIO-Arch: Workshop on Hardware Acceleration of Bioinformatics Workloads](https://safari.ethz.ch/recomb23-arch-workshop/): April 14, 2023; İstanbul, Turkey
 
 	BIO-Arch is a new forum for presenting and discussing new ideas in accelerating bioinformatics workloads with the co-design of hardware & software and the use of new computer architectures. Our goal is to discuss new system designs tailored for bioinformatics. BIO-Arch aims to bring together researchers in the bioinformatics, computational biology, and computer architecture communities to strengthen the progress in accelerating bioinformatics analysis (e.g., genome analysis) with efficient system designs that include hardware acceleration and software systems tailored for new hardware technologies.
