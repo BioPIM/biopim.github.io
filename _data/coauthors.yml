@@ -4,7 +4,7 @@
 
 "Alkan":
   - firstname: ["Can", "C."]
-    url: http://www.alkanlab.org
+    url: http://www.alkanlab.org/team/can-alkan/
 
 "Firtina":
   - firstname: ["Can", "C."]
@@ -132,6 +132,38 @@
     
 "Román Brenes":
   - firstname: ["Ricardo", "R."]
-    url: http://www.alkanlab.org/team/ricardo-roman-brenes/  
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/ 
+    
+"Ghiasi":
+  - firstname: ["Nika Mansouri", "N.", "Nika"] 
+    url: https://scholar.google.ch/citations?user=lMuBESUAAAAJ&hl=en
+  
+"Mansouri Ghiasi":
+  - firstname: ["Nika", "N."] 
+    url: https://scholar.google.ch/citations?user=lMuBESUAAAAJ&hl=en
 
+"Lindegger":
+  - firstname: ["Joel", "J."]
+    url: https://scholar.google.com/citations?user=IhARycsAAAAJ&hl=en
+    
+"Cavlak":
+  - firstname: ["Meryem Banu", "Meryem", "Banu", "M."]
+    url: https://scholar.google.com/citations?user=vrbq_BkAAAAJ&hl=en
+    
+"Singh":
+  - firstname: ["Gagandeep", "G."]
+    url: https://scholar.google.ch/citations?hl=en&user=tb097i4AAAAJ
+    
+"Mao":
+  - firstname: ["Haiyu", "H."]
+    url: https://hybol1993.github.io/
+    
+"Abecassis":
+  - firstname: ["Naomie", "N."]
+    url: https://www.linkedin.com/in/naomie-abecassis-361661273/
+    
+"Moisson-Franckhauser":
+  - firstname: ["Aphélie", "A."]
+    url: https://www.linkedin.com/in/a-moisson/
+    
     
