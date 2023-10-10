@@ -1,5 +1,39 @@
 ---
 ---
+
+@article{Eudine2023gateseeder,
+      title={GateSeeder: Near-memory CPU-FPGA Acceleration of Short and Long Read Mapping}, 
+      author={Julien Eudine and Mohammed Alser and Gagandeep Singh and Can Alkan and Onur Mutlu},
+      year={2023},
+      month = {sep},
+      eprint={2309.17063},
+      archivePrefix={arXiv},
+      abstract = {Motivation: Read mapping is a computationally expensive process and a major bottleneck in genomics analyses. The performance of read mapping is mainly limited by the performance of three key computational steps: Index Querying, Seed Chaining, and Sequence Alignment. The first step is dominated by how fast and frequent it accesses the main memory (i.e., memory-bound), while the latter two steps are dominated by how fast the CPU can compute their computationally-costly dynamic programming algorithms (i.e., compute-bound). Accelerating these three steps by exploiting new algorithms and new hardware devices is essential to accelerate most genome analysis pipelines that widely use read mapping. Given the large body of work on accelerating Sequence Alignment, this work focuses on significantly improving the remaining steps. Results: We introduce GateSeeder, the first CPU-FPGA-based near-memory acceleration of both short and long read mapping. GateSeeder exploits near-memory computation capability provided by modern FPGAs that couple a reconfigurable compute fabric with high-bandwidth memory (HBM) to overcome the memory-bound and compute-bound bottlenecks. GateSeeder also introduces a new lightweight algorithm for finding the potential matching segment pairs. Using real ONT, HiFi, and Illumina sequences, we experimentally demonstrate that GateSeeder outperforms Minimap2, without performing sequence alignment, by up to 40.3x, 4.8x, and 2.3x, respectively. When performing read mapping with sequence alignment, GateSeeder outperforms Minimap2 by 1.15-4.33x (using KSW2) and by 1.97-13.63x (using WFA-GPU)}
+      html = {https://arxiv.org/abs/2309.17063},
+      primaryClass={cs.AR}
+      journal = {arXiv}
+      abbr={arXiv},
+      code = {https://github.com/CMU-SAFARI/GateSeeder},
+      bibtex_show=true,
+}
+
+@article {Jahshan2023,
+	author = {Zuher Jahshan and Itay Merlin and Esteban Garz{\'o}n and Leonid Yavits},
+	title = {DASH-CAM: Dynamic Approximate SearcH Content Addressable Memory for genome classification},
+	elocation-id = {2023.09.29.560142},
+	year = {2023},
+	month = {oct},
+	doi = {10.1101/2023.09.29.560142},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {We propose a novel dynamic storage-based approximate search content addressable memory (DASH-CAM) for computational genomics applications, particularly for identification and classification of viral pathogens of epidemic significance. DASH-CAM provides 5.5x better density compared to state-of-the-art SRAM-based approximate search CAM. This allows using DASH-CAM as a portable classifier that can be applied to pathogen surveillance in low-quality field settings during pandemics, as well as to pathogen diagnostics at points of care. DASH-CAM approximate search capabilities allow a high level of flexibility when dealing with a variety of industrial sequencers with different error profiles. DASH-CAM achieves up to 30\% and 20\% higher F1 score when classifying DNA reads with 10\% error rate, compared to state-of-the-art DNA classification tools MetaCache-GPU and Kraken2 respectively. Simulated at 1GHz, DASH-CAM provides 1,178x and 1,040x average speedup over MetaCache-GPU and Kraken2 respectively.},
+	URL = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142},
+        html = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142},
+	eprint = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142.full.pdf},
+	journal = {bioRxiv},
+	abbr={bioRxiv},
+        bibtex_show=true,
+}
+
 @inproceedings{firtina_rawhash_2023,
   booktitle={Proceedings of the 31st Annual Conference on Intelligent Systems for Molecular Biology (ISMB) and the 22nd European Conference on Computational Biology (ECCB)}, 
 	title = {{RawHash}: {Enabling} {Fast} and {Accurate} {Real}-{Time} {Analysis} of {Raw} {Nanopore} {Signals} for {Large} {Genomes}},
