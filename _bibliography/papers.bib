@@ -1,6 +1,23 @@
 ---
 ---
 
+@article{firtina_aphmm_2023,
+  title = {ApHMM: Accelerating Profile Hidden Markov Models for Fast and Energy-Efficient Genome Analysis},
+  journal = {ACM Trans. Archit. Code Optim.},
+  author = {Firtina, Can and Pillai, Kamlesh and Kalsi, Gurpreet S. and Suresh, Bharathwaj and Cali, Damla Senol and Kim, Jeremie S. and Shahroodi, Taha and Cavlak, Meryem Banu and Lindegger, Jo\"{e}l and Alser, Mohammed and Luna, Juan G\'{o}mez and Subramoney, Sreenivas and Mutlu, Onur},
+  year = {2023},
+  abstract = {Profile hidden Markov models (pHMMs) are widely employed in various bioinformatics applications to identify similarities between biological sequences, such as DNA or protein sequences. In pHMMs, sequences are represented as graph structures, where states and edges capture modifications (i.e., insertions, deletions, and substitutions) by assigning probabilities to them. These probabilities are subsequently used to compute the similarity score between a sequence and a pHMM graph. The Baum-Welch algorithm, a prevalent and highly accurate method, utilizes these probabilities to optimize and compute similarity scores. Accurate computation of these probabilities is essential for the correct identification of sequence similarities. However, the Baum-Welch algorithm is computationally intensive, and existing solutions offer either software-only or hardware-only approaches with fixed pHMM designs. When we analyze state-of-the-art works, we identify an urgent need for a flexible, high-performance, and energy-efficient hardware-software co-design to address the major inefficiencies in the Baum-Welch algorithm for pHMMs.
+  We introduce ApHMM, the first flexible acceleration framework designed to significantly reduce both computational and energy overheads associated with the Baum-Welch algorithm for pHMMs. ApHMM employs hardware-software co-design to tackle the major inefficiencies in the Baum-Welch algorithm by 1) designing flexible hardware to accommodate various pHMM designs, 2) exploiting predictable data dependency patterns through on-chip memory with memoization techniques, 3) rapidly filtering out unnecessary computations using a hardware-based filter, and 4) minimizing redundant computations.
+  ApHMM achieves substantial speedups of 15.55x - 260.03x, 1.83x - 5.34x, and 27.97x when compared to CPU, GPU, and FPGA implementations of the Baum-Welch algorithm, respectively. ApHMM outperforms state-of-the-art CPU implementations in three key bioinformatics applications: 1) error correction, 2) protein family search, and 3) multiple sequence alignment, by 1.29x - 59.94x, 1.03x - 1.75x, and 1.03x - 1.95x, respectively, while improving their energy efficiency by 64.24x - 115.46x, 1.75x, 1.96x.},
+  issn = {1544-3566},
+  month = {dec},
+  abbr={ACM TACO},
+  bibtex_show=true,
+  code = {https://github.com/CMU-SAFARI/ApHMM-GPU},
+  url = {https://dl.acm.org/doi/10.1145/3632950},
+  doi = {10.1145/3632950},
+}
+
 @Article{Merlin2023,
   author  = {Itay Merlin and Esteban Garzón and Alex Fish and Leonid Yavits},
   journal = {IEEE Transactions on Computers},
@@ -14,6 +31,21 @@
   bibtex_show = true,
   html = {https://www.computer.org/csdl/journal/tc/5555/01/10260684/1QEx9tfzCXC},
   abbr = {IEEE TC},
+}
+
+@inproceedings{shahroodi_swordfish_2023,
+  title = {Swordfish: A Framework for Evaluating Deep Neural Network-Based Basecalling Using Computation-In-Memory with Non-Ideal Memristors},
+  booktitle={Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)}, 
+  author = {Shahroodi, Taha and Singh, Gagandeep and Zahedi, Mahdi and Mao, Haiyu and Lindegger, Joel and Firtina, Can and Wong, Stephan and Mutlu, Onur and Hamdioui, Said},
+  year = {2023},
+  abstract = {Basecalling, an essential step in many genome analysis studies, relies on large Deep Neural Network s (DNN s) to achieve high accuracy. Unfortunately, these DNN s are computationally slow and inefficient, leading to considerable delays and resource constraints in the sequence analysis process. A Computation-In-Memory (CIM) architecture using memristors can significantly accelerate the performance of DNN s. However, inherent device non-idealities and architectural limitations of such designs can greatly degrade the basecalling accuracy, which is critical for accurate genome analysis. To facilitate the adoption of memristor-based CIM designs for basecalling, it is important to (1) conduct a comprehensive analysis of potential CIM architectures and (2) develop effective strategies for mitigating the possible adverse effects of inherent device non-idealities and architectural limitations.  This paper proposes Swordfish, a novel hardware/software co-design framework that can effectively address the two aforementioned issues. Swordfish incorporates seven circuit and device restrictions or non-idealities from characterized real memristor-based chips. Swordfish leverages various hardware/software co-design solutions to mitigate the basecalling accuracy loss due to such non-idealities. To demonstrate the effectiveness of Swordfish, we take Bonito, the state-of-the-art (i.e., accurate and fast), open-source basecaller as a case study. Our experimental results using Swordfish show that a CIM architecture can realistically accelerate Bonito for a wide range of real datasets by an average of 25.7 \texttimes{}, with an accuracy loss of 6.01\%.},
+  month = {oct},
+  pages = {1437–1452},
+  isbn = {9798400703294},
+  abbr = {MICRO},
+  url = {https://doi.org/10.1145/3613424.3614252},
+  doi = {10.1145/3613424.3614252},
+  bibtex_show=true,,
 }
 
 @article {Jahshan2023,
@@ -33,6 +65,22 @@
         bibtex_show=true,
 }
 
+@article{firtina_rawhash2_2023,
+	title = {{RawHash2}: Accurate and Fast Mapping of Raw Nanopore Signals using a Hash-based Seeding Mechanism},
+	author={Can Firtina and Melina Soysal and Joël Lindegger and Onur Mutlu},
+	abstract = {Raw nanopore signals can be analyzed while they are being generated, a process known as real-time analysis. Real-time analysis of raw signals is essential to utilize the unique features that nanopore sequencing provides, enabling the early stopping of the sequencing of a read or the entire sequencing run based on the analysis. The state-of-the-art mechanism, RawHash, offers the first hash-based efficient and accurate similarity identification between raw signals and a reference genome by quickly matching their hash values. In this work, we introduce RawHash2, which provides major improvements over RawHash, including a more sensitive chaining implementation, weighted mapping decisions, frequency filters to reduce ambiguous seed hits, minimizers for hash-based sketching, and support for the R10.4 flow cell version and various data formats such as POD5. Compared to RawHash, RawHash2 provides the best F1 accuracy in all datasets and provides better average throughput by 2.5x. Source code is available at https://github.com/CMU-SAFARI/RawHash.},
+	journal = {arXiv},
+	year = {2023},
+	month = {sep},
+	doi = {10.48550/arXiv.2309.05771},
+	url = {https://doi.org/10.48550/arXiv.2309.05771},
+  abbr={arXiv},
+	selected=true,
+  pdf={https://arxiv.org/pdf/2309.05771.pdf},
+  code={https://github.com/CMU-SAFARI/RawHash},
+  bibtex_show=true,
+}
+
 @article{Eudine2023gateseeder,
       title={GateSeeder: Near-memory CPU-FPGA Acceleration of Short and Long Read Mapping}, 
       author={Julien Eudine and Mohammed Alser and Gagandeep Singh and Can Alkan and Onur Mutlu},
@@ -47,7 +95,6 @@
       code = {https://github.com/CMU-SAFARI/GateSeeder},
       bibtex_show=true,
 }
-
 
 @Article{Khalifa2023,
   author        = {Khalifa, Marcel and Hoffer, Barak and Leitersdorf, Orian and Hanhan, Robert and Perach, Ben and Yavits, Leonid and Kvatinsky, Shahar},
@@ -70,8 +117,6 @@
   bibtex_show = true,
   abbr = {IEEE VLSI},
 }
-
-
 
 @article{firtina_rawhash_2023,
   author      = {Firtina, Can and Ghiasi, Nika Mansouri and Lindegger, Joel and Singh, Gagandeep and Cavlak, Meryem Banu and Mao, Haiyu and Mutlu, Onur},
