@@ -9,7 +9,8 @@ github_repos:
   - BioPIM/pim-ml
   - BioPIM/transpimlib
   - BioPIM/Scrooge
-  - 
+  - BioPIM/BPL
+  - BioPIM/vital
   
 github_users:
   - calkan

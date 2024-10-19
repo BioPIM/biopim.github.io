@@ -19,7 +19,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Can Alkan](http://cs.bilkent.edu.tr/%7Ecalkan)** is an Associate Professor in [Computer Engineering](http://cs.bilkent.edu.tr/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). He has over 20 years of experience in algorithm design for bioinformatics and he has contributed to several large-scale genome sequencing efforts such as the [1000 Genomes Project](https://www.internationalgenome.org/) and [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle).
 
-**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/), [Klea Zambaku](https://www.linkedin.com/in/klea-zambaku-88992b199/), [Ecem İlgün](https://www.linkedin.com/in/ecemilgun/), [Ömer Yavuz Öztürk](https://www.linkedin.com/in/o-yavuz-ozturk/)
+**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/), [Klea Zambaku](https://www.linkedin.com/in/klea-zambaku-88992b199/), [Ecem İlgün](https://www.linkedin.com/in/ecemilgun/), [Ömer Yavuz Öztürk](https://www.linkedin.com/in/o-yavuz-ozturk/), [Berkan Şahin](https://www.linkedin.com/in/bsahin0/), [Akmuhammet Ashyralyyev](https://www.linkedin.com/in/akmami/)
 
 # Team Leaders
 
@@ -27,7 +27,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Onur Mutlu](http://people.inf.ethz.ch/omutlu/)** is a Professor of Computer Science at [ETH Zürich](https://ethz.ch/en.html), in the [Information Technology and Electrical Engineering](https://www.ee.ethz.ch/) department. He is an expert in computer architecture, systems, security, and bioinformatics.
 
-**Team members:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/), [Can Firtina](https://cfirtina.com), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D), [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/)
+**Team members:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/), [Can Firtina](https://cfirtina.com), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D), [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/), [Mohammad Sadrosadati](https://www.linkedin.com/in/mohammad-sadrosadati-23928a40)
 
 ---
 

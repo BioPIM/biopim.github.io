@@ -7,13 +7,18 @@ nav: true
 nav_order: 9
 ---
 
+* [ABUMPIMP 2024](https://www.upmem.com/abumpimp-2024/): August 26, 2024; Madrid, Spain
+
+	Euro-Par Minisymposium organized by UPMEM to explore the Applications and Benefits of UPMEM commercial Massively Parallel Processing-In-Memory Platform.
+	
+	For details on the program and speakers, visit: [ABUMPIMP 2024](https://www.upmem.com/abumpimp-2024)
+
 * [UPMEM's Euro-Par Minisymposium: Unleash the Power of PIM!](https://www.upmem.com/abumpimp-2023/): August 29, 2023; Limassol, Cyprus
 
-	Join us at the Euro-Par Minisymposium organized by UPMEM on August 29, 2023, to explore the Applications and Benefits of UPMEM commercial Massively Parallel Processing-In-Memory Platform. Discover how our groundbreaking PIM architecture can accelerate data-intensive applications in genomics, analytics, AI, and more.
+	Euro-Par Minisymposium organized by UPMEM to explore the Applications and Benefits of UPMEM commercial Massively Parallel Processing-In-Memory Platform. Discover how our groundbreaking PIM architecture can accelerate data-intensive applications in genomics, analytics, AI, and more.
 
 	Get insights from academic and industrial experts, learn how to leverage PIM for your projects, and stay ahead of the competition. 
-
-	Save the Date:
+	
 	Euro-Par Minisymposium on Applications and Benefits of UPMEM commercial Massively Parallel Processing-In-Memory Platform (ABUMPIMP)
 	Date: August 29, 2023
 	Location: St. Raphael Resort - Limassol, Cyprus
