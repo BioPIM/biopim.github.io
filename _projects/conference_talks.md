@@ -18,4 +18,8 @@ category: Conference Talks
  
  <iframe width="640" height="480" src="https://www.youtube.com/watch?v=2lSHTQbA7-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
+* **[CGSI 2024](https://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2024/)** Rayan Chikhi: Project Logan Assembling all public sequencing data
+ 
+ <iframe width="640" height="480" src="https://www.youtube.com/watch?v=H-8L_hFWXCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 ---

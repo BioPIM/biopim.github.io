@@ -19,7 +19,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Can Alkan](http://cs.bilkent.edu.tr/%7Ecalkan)** is an Associate Professor in [Computer Engineering](http://cs.bilkent.edu.tr/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/). He has over 20 years of experience in algorithm design for bioinformatics and he has contributed to several large-scale genome sequencing efforts such as the [1000 Genomes Project](https://www.internationalgenome.org/) and [Genome in a Bottle](https://www.nist.gov/programs-projects/genome-bottle).
 
-**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/), [Klea Zambaku](https://www.linkedin.com/in/klea-zambaku-88992b199/), [Ecem İlgün](https://www.linkedin.com/in/ecemilgun/), [Ömer Yavuz Öztürk](https://www.linkedin.com/in/o-yavuz-ozturk/), [Berkan Şahin](https://www.linkedin.com/in/bsahin0/), [Akmuhammet Ashyralyyev](https://www.linkedin.com/in/akmami/)
+**Team members:** [Gamze Kozanoğlu](https://www.linkedin.com/in/gamze-kozanoglu-8879a14/), [Pınar Demirekler Burat](https://www.linkedin.com/in/pinar-demirekler-burat-5b23054/), [Klea Zambaku](https://www.linkedin.com/in/klea-zambaku-88992b199/), [Ecem İlgün](https://www.linkedin.com/in/ecemilgun/), [Ömer Yavuz Öztürk](https://www.linkedin.com/in/o-yavuz-ozturk/), [Berkan Şahin](https://www.linkedin.com/in/bsahin0/), [Akmuhammet Ashyralyyev](https://www.linkedin.com/in/akmami/), [Zülal Bingöl](https://www.alkanlab.org/team/z%C3%BClal-bing%C3%B6l/)
 
 # Team Leaders
 
@@ -27,7 +27,9 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Onur Mutlu](http://people.inf.ethz.ch/omutlu/)** is a Professor of Computer Science at [ETH Zürich](https://ethz.ch/en.html), in the [Information Technology and Electrical Engineering](https://www.ee.ethz.ch/) department. He is an expert in computer architecture, systems, security, and bioinformatics.
 
-**Team members:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/), [Can Firtina](https://cfirtina.com), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D), [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/), [Mohammad Sadrosadati](https://www.linkedin.com/in/mohammad-sadrosadati-23928a40)
+**Team members:** [Mohammad Sadrosadati](https://www.linkedin.com/in/mohammad-sadrosadati-23928a40), [Can Firtina](https://cfirtina.com), [Konstantina Koliogeorgi](https://www.linkedin.com/in/konstantina-koliogeorgi-256965269/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/),  [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/) 
+
+**Alumni:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D)
 
 ---
 
@@ -51,7 +53,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Abu Sebastian](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-ASE)** is a Distinguished Research Staff Member & Manager at [IBM Research Zürich](https://www.zurich.ibm.com/). He was a contributor to several key projects in the space of storage and memory technologies and currently manages the research effort on in-memory computing at IBM Research Zurich.
 
-**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/), [William Simon](https://www.linkedin.com/in/williamsimon1/)
+**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/), [William Simon](https://www.linkedin.com/in/williamsimon1/), [Orhun Görkem](https://www.linkedin.com/in/orhun-gorkem/)
 
 ---
 
@@ -59,7 +61,8 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Ran Ginosar](https://webee.technion.ac.il/%7Eran/)** is a Professor of [Electrical Engineering](https://ece.technion.ac.il/) at [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/). He is an expert in many-core plural architectures, VLSI, neurochips, and asynchronous logic design.
 
-**Team members:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273), [Robert Hanhan](https://www.linkedin.com/in/robert-hanhan-0b57991a3/), [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
+**Alumni:** [Naomie Abecassis](https://www.linkedin.com/in/naomie-abecassis-361661273), [Robert Hanhan](https://www.linkedin.com/in/robert-hanhan-0b57991a3/), [Zuher Jahshan](https://www.linkedin.com/in/zuher-jahshan-7a7199196/)
+
 
 &nbsp;
 

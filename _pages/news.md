@@ -20,9 +20,13 @@ nav_order: 8
 
 * [EU Horizon Project BioPIM funded](https://safari.ethz.ch/safari-newsletter-december-2021/)
 
+# Awards
+
+* [Rayan Chikhi: Prix de Mme Victor Noury Award](https://prairie-institute.fr/2023/10/20/prize-of-mme-victor-noury-fondation-de-linstitut-de-france-for-rayan-chikhi/) by Fondation de l'Institut de France.
+* [Rayan Chikhi: Prix Pasteur Vallery-Radot Award](https://www.bnf.fr/sites/default/files/2024-06/CP-Prix-Vallery-Radot-2024-%20bnf.pdf) by Bibliothèque nationale de France.
 
 # Other projects by partners
 
 * [GenoPIM](https://genopim.irisa.fr/) by IP, CNRS, and UPMEM; with BU as external participant. Funded by ANR.
-
+* [Logan](https://github.com/IndexThePlanet/Logan) by IP. Funded by the European Research Council.
 
