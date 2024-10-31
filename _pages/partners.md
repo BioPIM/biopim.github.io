@@ -72,7 +72,9 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Yann Falevoz](https://www.linkedin.com/in/yannfalevoz/)** is Product Manager & Tech Marketing Project Manager at [UPMEM](https://www.upmem.com/). 
 
-**Team members:** [Aphélie Moisson-Franckhauser](https://www.linkedin.com/in/a-moisson/), [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/)
+**Team members:** [Meven Mognol](https://www.linkedin.com/in/meven-mognol-292935b8/), Renaud Ayrignac
+
+**Alumni:** [Aphélie Moisson-Franckhauser](https://www.linkedin.com/in/a-moisson/)
 
 &nbsp;
 
