@@ -27,9 +27,9 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Onur Mutlu](http://people.inf.ethz.ch/omutlu/)** is a Professor of Computer Science at [ETH Zürich](https://ethz.ch/en.html), in the [Information Technology and Electrical Engineering](https://www.ee.ethz.ch/) department. He is an expert in computer architecture, systems, security, and bioinformatics.
 
-**Team members:** [Mohammad Sadrosadati](https://www.linkedin.com/in/mohammad-sadrosadati-23928a40), [Can Firtina](https://cfirtina.com), [Konstantina Koliogeorgi](https://www.linkedin.com/in/konstantina-koliogeorgi-256965269/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/),  [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/) 
+**Team members:** [Mohammad Sadrosadati](https://www.linkedin.com/in/mohammad-sadrosadati-23928a40), [Can Firtina](https://cfirtina.com), [Konstantina Koliogeorgi](https://www.linkedin.com/in/konstantina-koliogeorgi-256965269/), [Nika Mansouri Ghiasi](https://www.linkedin.com/in/nika-mansouri-ghiasi-4b521ba2/),  [Tracy Ewen](https://www.linkedin.com/in/tracy-ewen/), [Geraldo De Oliveira Junior](https://www.linkedin.com/in/geraldo-francisco-de-oliveira-junior-966b48113/)
 
-**Alumni:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D)
+**Alumni:** [Juan Gómez Luna](https://www.linkedin.com/in/juan-gomez-luna-428b3b12/), [Mohammed Alser](https://www.linkedin.com/in/mealser/), [Joël Lindegger](https://www.linkedin.com/in/joël-lindegger-5b004b168/), [Banu Cavlak](https://www.linkedin.com/in/banu-cavlak-0003b5180/?lipi=urn%3Ali%3Apage%3Ad_flagship3_groups_manage%3Bn12dJnFjSJyZwpIC%2BQ37YQ%3D%3D), [Julien Eudine](https://www.eudine.fr/), [Haiyu Mao](https://www.linkedin.com/in/haiyu-mao-328a10104/)
 
 ---
 
@@ -37,7 +37,7 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Rayan Chikhi](http://rayan.chikhi.name/)** is a researcher in bioinformatics and group leader of [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/) at [Institut Pasteur](https://www.pasteur.fr/en). His interests range from fundamental data structures and algorithms, to their implementation and execution in the context of DNA and RNA sequencing and de novo genome assembly.
 
-**Team members:** Erwan Drezen, [Yoann Dufresne](https://research.pasteur.fr/en/member/yoann-dufresne/), [Yoshihiro Shibuya](https://www.linkedin.com/in/yoshihiro-shibuya)
+**Team members:** [Erwan Drezen](https://www.linkedin.com/in/erwan-drezen-b9a9061b6/), [Yoann Dufresne](https://research.pasteur.fr/en/member/yoann-dufresne/), [Yoshihiro Shibuya](https://www.linkedin.com/in/yoshihiro-shibuya)
 
 ---
 
@@ -53,7 +53,9 @@ Engagement of partners from different but complementary backgrounds will brighte
 
 **[Abu Sebastian](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-ASE)** is a Distinguished Research Staff Member & Manager at [IBM Research Zürich](https://www.zurich.ibm.com/). He was a contributor to several key projects in the space of storage and memory technologies and currently manages the research effort on in-memory computing at IBM Research Zurich.
 
-**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/), [William Simon](https://www.linkedin.com/in/williamsimon1/), [Orhun Görkem](https://www.linkedin.com/in/orhun-gorkem/)
+**Team members:** [İrem Boybat](https://www.linkedin.com/in/irem-boybat/), [William Simon](https://www.linkedin.com/in/williamsimon1/), [Orhun Görkem](https://www.linkedin.com/in/orhun-gorkem/), [Elena Ferro](https://www.linkedin.com/in/elena-ferro-44183217b/), Manuel Le Gallo 
+
+**Alumni:** [Nikolas Ioannou](https://www.linkedin.com/in/niioannou/)
 
 ---
 

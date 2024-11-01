@@ -11,6 +11,19 @@ github_repos:
   - BioPIM/Scrooge
   - BioPIM/BPL
   - BioPIM/vital
+  - BioPIM/UPMEM_HaplotypeCaller
+  - CMU-SAFARI/PIM-Opt
+  - CMU-SAFARI/pim-ml
+  - CMU-SAFARI/PyGim
+  - CMU-SAFARI/ApHMM-GPU
+  - CMU-SAFARI/GateSeeder
+  - CMU-SAFARI/TargetCall
+  - CMU-SAFARI/AirLift
+  - BilkentCompGen/lcptools
+  - BilkentCompGen/gencore
+  - CMU-SAFARI/Rubicon
+  - CMU-SAFARI/RawAlign
+  - CMU-SAFARI/SimplePIM
   
 github_users:
   - calkan
@@ -23,8 +36,12 @@ github_users:
   - theyusko
   - kleazambaku
   - yavuz-ozturk
+  - berkan-sahin
+  - akmami
   - mmognol-upmem
+  - fdemoor2
   - naomieab
   - william-simon
   - yavits
+  - yhhshb
   - zuherJahshan
