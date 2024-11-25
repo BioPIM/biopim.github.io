@@ -24,6 +24,7 @@ nav_order: 8
 
 * [Rayan Chikhi: Prix de Mme Victor Noury Award](https://prairie-institute.fr/2023/10/20/prize-of-mme-victor-noury-fondation-de-linstitut-de-france-for-rayan-chikhi/) by Fondation de l'Institut de France.
 * [Rayan Chikhi: Prix Pasteur Vallery-Radot Award](https://www.bnf.fr/sites/default/files/2024-06/CP-Prix-Vallery-Radot-2024-%20bnf.pdf) by Bibliothèque nationale de France.
+* [Zülal Bingöl: Best Poster Award](https://www.linkedin.com/feed/update/urn:li:activity:7264924577011564544?utm_source=share&utm_medium=member_desktop) at the Genome Informatics 2024.
 
 # Other projects by partners
 
