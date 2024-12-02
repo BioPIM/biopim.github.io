@@ -45,8 +45,8 @@ Uzi Vishkin's research aspirations evolved over the years from that of a paralle
 
 <img style="float:left;padding-right:10px;" align="left" src="../assets/img/damlasenolcali.png">
 
-Bionano Genomics
+10x Genomics
 
-Damla Çenol Çalı is a Staff Software Engineer, Hardware Acceleration at Bionano Genomics. Her research focuses on hardware/software co-design for accelerating bioinformatics applications and genomic data analysis. She is also excited about memory systems and processing-in-memory, and contributed to several PIM designs. During her Ph.D., Damla also interned at Intel Labs in 2018 and 2020. 
+Damla Çenol Çalı is a Senior Computational Biologist at 10x Genomics, and she was previously a Staff Software Engineer, Hardware Acceleration at Bionano Genomics. Her research focuses on hardware/software co-design for accelerating bioinformatics applications and genomic data analysis. She is also excited about memory systems and processing-in-memory, and contributed to several PIM designs. During her Ph.D., Damla also interned at Intel Labs in 2018 and 2020. 
 
 <br clear="left"/>
