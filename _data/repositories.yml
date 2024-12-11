@@ -24,7 +24,7 @@ github_repos:
   - CMU-SAFARI/Rubicon
   - CMU-SAFARI/RawAlign
   - CMU-SAFARI/SimplePIM
-  - CMU-SAFARI/PimBloomFilters
+  - BioPIM/PimBloomFilters
   
 github_users:
   - calkan
