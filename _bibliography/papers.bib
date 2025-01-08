@@ -1,5 +1,46 @@
 ---
 ---
+
+@article{rawalign2024,
+  title={RawAlign: Accurate, Fast, and Scalable Raw Nanopore Signal Mapping via Combining Seeding and Alignment}, 
+  author={Joël Lindegger and Can Fırtına and Nika Mansouri Ghiasi and Mohammad Sadrosadati and Mohammed Alser and Onur Mutlu},
+  abstract={Nanopore sequencers generate raw electrical signals representing the contents of a biological sequence molecule passing through the nanopore. These signals can be analyzed directly, avoiding basecalling entirely. We observe that while existing proposals for raw signal analysis typically do well in all metrics for small genomes (e.g., viral genomes), they all perform poorly for large genomes (e.g., the human genome). Our goal is to analyze raw nanopore signals in an accurate, fast, and scalable manner. To this end, we propose RawAlign, the first work to integrate fine-grained signal alignment into the state-of-the-art raw signal mapper. To enable accurate, fast, and scalable mapping with alignment, RawAlign implements three algorithmic improvements and hardware acceleration via a vectorized implementation of fine-grained alignment. Together, these significantly reduce the overhead of typically computationally expensive fine-grained alignment. Our extensive evaluations on different use cases and various datasets show RawAlign provides 1) the most accurate mapping for large genomes and 2) and on-par performance compared to RawHash (between 0.80x-1.08x), while achieving better performance than UNCALLED and Sigmap by on average (geo. mean) 2.83x and 2.06x, respectively.},
+  year={2024},
+  month={dec},
+  journal={IEEE Access}, 
+  volume={12},
+  number={},
+  pages={196855-196865},
+  keywords={Genomics;Nanobioscience;Dynamic programming;Accuracy;Sequential analysis;Heuristic algorithms;Costs;Real-time systems;Single instruction multiple data;Signal mapping;Bioinformatics;genome sequence analysis;read mapping;raw signal analysis;nanopore sequencing},
+  doi={10.1109/ACCESS.2024.3520669}}
+
+@article{taco-precharge-free2024,
+  title={Designing Precharge-Free Energy-Efficient Content-Addressable Memories}, 
+  author={Ramiro Taco and Esteban Garzón and Robert Hanhan and Adam Teman and Leonid Yavits and Marco Lanuzza},
+  abstract={Content-addressable memory (CAM) is a specialized type of memory that facilitates massively parallel comparison of a search pattern against its entire content. State-of-the-art (SOTA) CAM solutions are either fast but power-hungry (NOR CAM) or slow while consuming less power (nand CAM). These limitations stem from the dynamic precharge operation, leading to excessive power consumption in NOR CAMs and charge-sharing issues in NAND CAMs. In this work, we propose a precharge-free CAM (PCAM) class for energy-efficient applications. By avoiding precharge operation, PCAM consumes less energy than a NAND CAM, while achieving search speed comparable to a NOR CAM. PCAM was designed using a 65-nm CMOS technology and comprehensively evaluated under extensive Monte Carlo (MC) simulations while taking into account layout parasitics. When benchmarked against conventional NAND CAM, PCAM demonstrates improved search run time (reduced by more than 30%) and 15% less search energy. Moreover, PCAM can cut energy consumption by more than 75% when compared to conventional NOR CAM. We further extend our analysis to the application level, functionally evaluating the CAM designs as a fully associative cache using a CPU simulator running various benchmark workloads. This analysis confirms that PCAMs represent an optimal energy-performance design choice for associative memories and their broad spectrum of applications.},
+  year={2024},
+  month={oct},
+  journal={IEEE Transactions on Very Large Scale Integration (VLSI) Systems}, 
+  volume={32},
+  number={12},
+  pages={2303-2314},
+  keywords={Transistors;Random access memory;Power demand;Discharges (electric);Capacitance;Memory management;Microprocessors;Energy consumption;Pattern matching;Europe;Content-addressable memory (CAM);fully associative cache;low-power;NAND CAM;NOR CAM;precharge-free},
+  doi={10.1109/TVLSI.2024.3475036}}
+
+@article{10609570,
+	title={MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing}, 
+  	author={Nika Mansouri Ghiasi and Mohammad Sadrosadati and Harun Mustafa and Arvid Gollwitzer and Can Fırtına and Julien Eudine and Haiyu Mao and Joël Lindegger and Meryem Banu Cavlak and Mohammed Alser and Jisung Park and Onur Mutlu},
+  	abstract={Metagenomics, the study of the genome sequences of diverse organisms in a common environment, has led to significant advances in many fields. Since the species present in a metagenomic sample are not known in advance, metagenomic analysis commonly involves the key tasks of determining the species present in a sample and their relative abundances. These tasks require searching large metagenomic databases containing information on different species’ genomes. Metagenomic analysis suffers from significant data movement overhead due to moving large amounts of low-reuse data from the storage system to the rest of the system. In-storage processing can be a fundamental solution for reducing this overhead. However, designing an in-storage processing system for metagenomics is challenging because existing approaches to metagenomic analysis cannot be directly implemented in storage effectively due to the hardware limitations of modern SSDs.We propose MegIS, the first in-storage processing system designed to significantly reduce the data movement overhead of the end-to-end metagenomic analysis pipeline. MegIS is enabled by our lightweight design that effectively leverages and orchestrates processing inside and outside the storage system. Through our detailed analysis of the end-to-end metagenomic analysis pipeline and careful hardware/software co-design, we address in-storage processing challenges for metagenomics via specialized and efficient 1) task partitioning, 2) data/computation flow coordination, 3) storage technology-aware algorithmic optimizations, 4) data mapping, and 5) lightweight in-storage accelerators. MegIS’s design is flexible, capable of supporting different types of metagenomic input datasets, and can be integrated into various metagenomic analysis pipelines. Our evaluation shows that MegIS outperforms the state-of-the-art performance- and accuracy-optimized software metagenomic tools by 2.7× – 37.2× and 6.9×–100.2×, respectively, while matching the accuracy of the accuracy-optimized tool. MegIS achieves 1.5×–5.1× speedup compared to the state-of-the-art metagenomic hardware-accelerated (using processing-in-memory) tool, while achieving significantly higher accuracy.},
+	year={2024},
+	month={June},
+  	booktitle={2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)}, 
+	abbr={ISCA},
+  	pages={660-677},
+	url={https://ieeexplore.ieee.org/abstract/document/10609570},
+	pdf={https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10609570},
+  }
+
+
 @article{yann2024_energy_review,
       title={Energy Efficiency Impact of Processing in Memory: A Comprehensive Review of Workloads on the UPMEM Architecture}, 
       author={Yann Falevoz and Julien Legriel},
@@ -96,11 +137,11 @@
   author={Gagandeep Singh and Mohammed Alser and Alireza Khodamoradi and Kristof Denolf and Can Firtina and Meryem Banu Cavlak and Henk Corporaal and Onur Mutlu},
   journal={bioRxiv}, 
   title={A Framework for Designing Efficient Deep Learning-Based Genomic Basecallers}, 
-  abstract={Nanopore sequencing is a widely-used high-throughput genome sequencing technology that can se-quence long fragments of a genome. Nanopore sequencing generates noisy electrical signals that need to be converted into a standard string of DNA nucleotide bases using a computational step called basecalling. The performance of basecalling has critical implications for all later steps in genome analysis. Many researchers adopt complex deep learning-based models from the speech recognition domain to perform basecalling without considering the compute demands of such models, which leads to slow, inefficient, and memory-hungry basecallers. Therefore, there is a need to reduce the computation and memory cost of basecalling while maintaining accuracy. However, developing a very fast basecaller that can provide high accuracy requires a deep understanding of genome sequencing, machine learning, and hardware design. Our goal is to develop a comprehensive framework for creating deep learning-based basecallers that provide high efficiency and performance. We introduce RUBICON, a framework to develop hardware-optimized basecallers. RUBICON consists of two novel machine-learning techniques that are specifically designed for basecalling. First, we introduce the first quantization-aware basecalling neural architecture search (QABAS) framework to specialize the basecalling neural network architecture for a given hardware acceleration platform while jointly exploring and finding the best bit-width precision for each neural network layer. Second, we develop SkipClip, the first technique to remove the skip connections present in modern basecallers to greatly reduce resource and storage requirements without any loss in basecalling accuracy. We demonstrate the benefits of RUBICON by developing RUBICALL, the first hardware-optimized basecaller that performs fast and accurate basecalling. Our experimental results on state-of-the-art computing systems show that RUBICALL is a fast, memory-efficient, and hardware-friendly basecaller. Compared to the fastest state-of-the-art basecaller, RUBICALL provides a 3.96× speedup with 2.97% higher accuracy. Compared to an expert-designed basecaller, RUBICALL provides a 141.15× speedup without losing accuracy while also achieving a 6.88× and 2.94× reduction in neural network model size and the number of parameters, respectively. We show that RUBICON helps researchers develop hardware-optimized basecallers that are superior to expert-designed models and can inspire independent future ideas.},
+  abstract={Nanopore sequencing is a widely-used high-throughput genome sequencing technology that can sequence long fragments of a genome. Nanopore sequencing generates noisy electrical signals that need to be converted into a standard string of DNA nucleotide bases using a computational step called basecalling. The performance of basecalling has critical implications for all later steps in genome analysis. Many researchers adopt complex deep learning-based models from the speech recognition domain to perform basecalling without considering the compute demands of such models, which leads to slow, inefficient, and memory-hungry basecallers. Therefore, there is a need to reduce the computation and memory cost of basecalling while maintaining accuracy. However, developing a very fast basecaller that can provide high accuracy requires a deep understanding of genome sequencing, machine learning, and hardware design. Our goal is to develop a comprehensive framework for creating deep learning-based basecallers that provide high efficiency and performance. We introduce RUBICON, a framework to develop hardware-optimized basecallers. RUBICON consists of two novel machine-learning techniques that are specifically designed for basecalling. First, we introduce the first quantization-aware basecalling neural architecture search (QABAS) framework to specialize the basecalling neural network architecture for a given hardware acceleration platform while jointly exploring and finding the best bit-width precision for each neural network layer. Second, we develop SkipClip, the first technique to remove the skip connections present in modern basecallers to greatly reduce resource and storage requirements without any loss in basecalling accuracy. We demonstrate the benefits of RUBICON by developing RUBICALL, the first hardware-optimized basecaller that performs fast and accurate basecalling. Our experimental results on state-of-the-art computing systems show that RUBICALL is a fast, memory-efficient, and hardware-friendly basecaller. Compared to the fastest state-of-the-art basecaller, RUBICALL provides a 3.96× speedup with 2.97% higher accuracy. Compared to an expert-designed basecaller, RUBICALL provides a 141.15× speedup without losing accuracy while also achieving a 6.88× and 2.94× reduction in neural network model size and the number of parameters, respectively. We show that RUBICON helps researchers develop hardware-optimized basecallers that are superior to expert-designed models and can inspire independent future ideas.},
   year={2023},
   month={nov},
   doi={10.1101/2022.11.20.517297},
-  abbr={bioRxiv}, 
+  abbr={Genome Biology}, 
   bibtex_show=true,
   url={https://www.biorxiv.org/content/10.1101/2022.11.20.517297v3.article-info},
   pdf={https://www.biorxiv.org/content/10.1101/2022.11.20.517297v3.full.pdf}
@@ -130,6 +171,20 @@
       url={https://ieeexplore.ieee.org/abstract/document/10153337},
       pdf={https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10153337},
       bibtex_show=true,
+}
+
+@article{gomezluna_ispass_2023, 
+	title={An Experimental Evaluation of Machine Learning Training on a Real Processing-in-Memory System}, 
+	author={Juan Gómez-Luna and Yuxin Guo and Sylvan Brocard and Julien Legriel and Remy Cimadomo and Geraldo F. Oliveira and Gagandeep Singh and Onur Mutlu},
+	abstract={Training machine learning (ML) algorithms is a computationally intensive process, which is frequently memory-bound due to repeatedly accessing large training datasets. As a result, processor-centric systems (e.g., CPU, GPU) suffer from costly data movement between memory units and processing units, which consumes large amounts of energy and execution cycles. Memory-centric computing systems, i.e., with processing-in-memory (PIM) capabilities, can alleviate this data movement bottleneck.
+Our goal is to understand the potential of modern general-purpose PIM architectures to accelerate ML training. To do so, we (1) implement several representative classic ML algorithms (namely, linear regression, logistic regression, decision tree, K-Means clustering) on a real-world general-purpose PIM architecture, (2) rigorously evaluate and characterize them in terms of accuracy, performance and scaling, and (3) compare to their counterpart implementations on CPU and GPU. Our evaluation on a real memory-centric computing system with more than 2500 PIM cores shows that general-purpose PIM architectures can greatly accelerate memory-bound ML workloads, when the necessary operations and datatypes are natively supported by PIM hardware. For example, our PIM implementation of decision tree is 27× faster than a state-of-the-art CPU version on an 8-core Intel Xeon, and 1.34× faster than a state-of-the-art GPU version on an NVIDIA A100. Our K-Means clustering on PIM is 2.8× and 3.2× than state-of-the-art CPU and GPU versions, respectively.
+To our knowledge, our work is the first one to evaluate ML training on a real-world PIM architecture. We conclude with key observations, takeaways, and recommendations that can inspire users of ML workloads, programmers of PIM architectures, and hardware designers & architects of future memory-centric computing systems.},
+	year={2023},
+	month={sep},
+	abbr = {ISPASS}
+	url={https://arxiv.org/abs/2207.07886},
+	pdf={https://arxiv.org/pdf/2207.07886},
+      	bibtex_show=true,
 }
 
 @article{ekim2023_mapquik,
