@@ -2,14 +2,13 @@
 ---
 
 @article{demoor:hal-04821180,
-  	title = {{MiMyCS: A Processing-in-Memory Read Mapper for Compressing Next-Gen Sequencing Datasets}},
+  	title = {MiMyCS: A Processing-in-Memory Read Mapper for Compressing Next-Gen Sequencing Datasets},
   	author = {Florestan de Moor and Meven Mognol and Charles Deltel and Erwan Drezen and Julien Legriel and Dominique Lavenier},
 	abstract={As Next-Gen sequencing (NGS) technologies keep improving their accuracy and get largely deployed in human health care infrastructures, it is critical to design efficient reference-based compressors that fully leverage the capabilities of modern processors and hardware accelerators. This work proposes MiMyCS: a C++ software to achieve Mapping in Memory for Compressing Short reads. It performs lossless reference-based compression of NGS datasets such as Illumina reads. To this end, MiMyCS computes a non-exhaustive mapping against a reference genome and accelerates this step with the Processing-in-Memory architecture developed by the UPMEM company. Such architecture extends the computational power of a machine by adding dual in-line memory modules on which each memory bank has its own processing unit that runs up to 16 threads. This creates a massively parallel environment, well-fitted to alleviate memory bottlenecks. To reduce the overall amount of sequence comparisons and accelerate further the process, MiMyCS also incorporates a Bloom filters-based dispatcher that predicts against which genome parts reads are most likely to be mapped. We show with real whole human sequencing datasets that MiMyCS is able to achieve a speed-up between 1.2x and 2.7x compared to Genozip, the current leading state-of-the-art compressor, while maintaining a comparable compression ratio and lowering the overall energy consumption. The code of MiMyCS is available at https://gitlab.inria.fr/pim/org.pim.srm.},
 	year = {2024},
   	month = {dec},
-  	booktitle = {{IEEEXplore}},
+  	booktitle = {IEEEXplore},
 	abbr={IEEEXplore}
-	publisher = {{IEEE}},
 	volume = {BIBM2024},
 	number = {1},
   	pages= {7176},
