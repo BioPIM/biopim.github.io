@@ -17,17 +17,18 @@
 
 
 @article{rawalign2024,
-	title={RawAlign: Accurate, Fast, and Scalable Raw Nanopore Signal Mapping via Combining Seeding and Alignment}, 
-	author={Joël Lindegger and Can Fırtına and Nika Mansouri Ghiasi and Mohammad Sadrosadati and Mohammed Alser and Onur Mutlu},
-	abstract={Nanopore sequencers generate raw electrical signals representing the contents of a biological sequence molecule passing through the nanopore. These signals can be analyzed directly, avoiding basecalling entirely. We observe that while existing proposals for raw signal analysis typically do well in all metrics for small genomes (e.g., viral genomes), they all perform poorly for large genomes (e.g., the human genome). Our goal is to analyze raw nanopore signals in an accurate, fast, and scalable manner. To this end, we propose RawAlign, the first work to integrate fine-grained signal alignment into the state-of-the-art raw signal mapper. To enable accurate, fast, and scalable mapping with alignment, RawAlign implements three algorithmic improvements and hardware acceleration via a vectorized implementation of fine-grained alignment. Together, these significantly reduce the overhead of typically computationally expensive fine-grained alignment. Our extensive evaluations on different use cases and various datasets show RawAlign provides 1) the most accurate mapping for large genomes and 2) and on-par performance compared to RawHash (between 0.80x-1.08x), while achieving better performance than UNCALLED and Sigmap by on average (geo. mean) 2.83x and 2.06x, respectively.},
-	year={2024},
-	month={dec},
-	journal={IEEE Access}, 
-	abbr={IEEE Access}, 
-	volume={12},
-	pages={196855-196865},
-	keywords={Genomics;Nanobioscience;Dynamic programming;Accuracy;Sequential analysis;Heuristic algorithms;Costs;Real-time systems;Single instruction multiple data;Signal mapping;Bioinformatics;genome sequence analysis;read mapping;raw signal analysis;nanopore sequencing},
-	doi={10.1109/ACCESS.2024.3520669},
+	title = {RawAlign: Accurate, Fast, and Scalable Raw Nanopore Signal Mapping via Combining Seeding and Alignment}, 
+	author = {Joël Lindegger and Can Firtina and Nika Mansouri Ghiasi and Mohammad Sadrosadati and Mohammed Alser and Onur Mutlu},
+	abstract = {Nanopore sequencers generate raw electrical signals representing the contents of a biological sequence molecule passing through the nanopore. These signals can be analyzed directly, avoiding basecalling entirely. We observe that while existing proposals for raw signal analysis typically do well in all metrics for small genomes (e.g., viral genomes), they all perform poorly for large genomes (e.g., the human genome). Our goal is to analyze raw nanopore signals in an accurate, fast, and scalable manner. To this end, we propose RawAlign, the first work to integrate fine-grained signal alignment into the state-of-the-art raw signal mapper. To enable accurate, fast, and scalable mapping with alignment, RawAlign implements three algorithmic improvements and hardware acceleration via a vectorized implementation of fine-grained alignment. Together, these significantly reduce the overhead of typically computationally expensive fine-grained alignment. Our extensive evaluations on different use cases and various datasets show RawAlign provides 1) the most accurate mapping for large genomes and 2) and on-par performance compared to RawHash (between 0.80x-1.08x), while achieving better performance than UNCALLED and Sigmap by on average (geo. mean) 2.83x and 2.06x, respectively.},
+	year = {2024},
+	month = {dec},
+	journal = {IEEE Access}, 
+	abbr = {IEEE Access}, 
+	volume = {12},
+	pages = {196855-196865},
+	keywords = {Genomics;Nanobioscience;Dynamic programming;Accuracy;Sequential analysis;Heuristic algorithms;Costs;Real-time systems;Single instruction multiple data;Signal mapping;Bioinformatics;genome sequence analysis;read mapping;raw signal analysis;nanopore sequencing},
+	doi = {10.1109/ACCESS.2024.3520669},
+	pdf = {https://arxiv.org/pdf/2310.05037},
 }
 
 
@@ -44,6 +45,7 @@
   	pages={2303-2314},
   	keywords={Transistors;Random access memory;Power demand;Discharges (electric);Capacitance;Memory management;Microprocessors;Energy consumption;Pattern matching;Europe;Content-addressable memory (CAM);fully associative cache;low-power;NAND CAM;NOR CAM;precharge-free},
   	doi={10.1109/TVLSI.2024.3475036},
+	pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10723100},
 }
 
 @inproceedings{mognol_2024_parallel_proc,
@@ -77,12 +79,13 @@
   	pages={597-612},
   	keywords={Sequential analysis;Sequences;Software algorithms;Genomics;Approximation algorithms;Vectors;Hardware;Vector architecture;Genome Sequence Analysis;Flexible domain specific accelerator;CPU microarchitecture;Vector acceleration framework;Scratchpad memory},
   	doi={10.1109/ISCA59077.2024.00050},
+	pdf={https://people.inf.ethz.ch/omutlu/pub/QUETZAL_isca24.pdf},
 }
 
 
 @article{10609570,
 	title={MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing}, 
-  	author={Nika Mansouri Ghiasi and Mohammad Sadrosadati and Harun Mustafa and Arvid Gollwitzer and Can Fırtına and Julien Eudine and Haiyu Mao and Joël Lindegger and Meryem Banu Cavlak and Mohammed Alser and Jisung Park and Onur Mutlu},
+  	author={Nika Mansouri Ghiasi and Mohammad Sadrosadati and Harun Mustafa and Arvid Gollwitzer and Can Firtina and Julien Eudine and Haiyu Mao and Joël Lindegger and Meryem Banu Cavlak and Mohammed Alser and Jisung Park and Onur Mutlu},
   	abstract={Metagenomics, the study of the genome sequences of diverse organisms in a common environment, has led to significant advances in many fields. Since the species present in a metagenomic sample are not known in advance, metagenomic analysis commonly involves the key tasks of determining the species present in a sample and their relative abundances. These tasks require searching large metagenomic databases containing information on different species’ genomes. Metagenomic analysis suffers from significant data movement overhead due to moving large amounts of low-reuse data from the storage system to the rest of the system. In-storage processing can be a fundamental solution for reducing this overhead. However, designing an in-storage processing system for metagenomics is challenging because existing approaches to metagenomic analysis cannot be directly implemented in storage effectively due to the hardware limitations of modern SSDs.We propose MegIS, the first in-storage processing system designed to significantly reduce the data movement overhead of the end-to-end metagenomic analysis pipeline. MegIS is enabled by our lightweight design that effectively leverages and orchestrates processing inside and outside the storage system. Through our detailed analysis of the end-to-end metagenomic analysis pipeline and careful hardware/software co-design, we address in-storage processing challenges for metagenomics via specialized and efficient 1) task partitioning, 2) data/computation flow coordination, 3) storage technology-aware algorithmic optimizations, 4) data mapping, and 5) lightweight in-storage accelerators. MegIS’s design is flexible, capable of supporting different types of metagenomic input datasets, and can be integrated into various metagenomic analysis pipelines. Our evaluation shows that MegIS outperforms the state-of-the-art performance- and accuracy-optimized software metagenomic tools by 2.7× – 37.2× and 6.9×–100.2×, respectively, while matching the accuracy of the accuracy-optimized tool. MegIS achieves 1.5×–5.1× speedup compared to the state-of-the-art metagenomic hardware-accelerated (using processing-in-memory) tool, while achieving significantly higher accuracy.},
 	year={2024},
 	month={June},
@@ -312,6 +315,7 @@ To our knowledge, our work is the first one to evaluate ML training on a real-wo
   isbn = {9798400703294},
   abbr = {MICRO},
   url = {https://doi.org/10.1145/3613424.3614252},
+  pdf = {https://arxiv.org/pdf/2310.04366},
   doi = {10.1145/3613424.3614252},
   bibtex_show=true,
 }
@@ -326,6 +330,7 @@ To our knowledge, our work is the first one to evaluate ML training on a real-wo
 	publisher = {Cold Spring Harbor Laboratory},
 	abstract = {We propose a novel dynamic storage-based approximate search content addressable memory (DASH-CAM) for computational genomics applications, particularly for identification and classification of viral pathogens of epidemic significance. DASH-CAM provides 5.5x better density compared to state-of-the-art SRAM-based approximate search CAM. This allows using DASH-CAM as a portable classifier that can be applied to pathogen surveillance in low-quality field settings during pandemics, as well as to pathogen diagnostics at points of care. DASH-CAM approximate search capabilities allow a high level of flexibility when dealing with a variety of industrial sequencers with different error profiles. DASH-CAM achieves up to 30\% and 20\% higher F1 score when classifying DNA reads with 10\% error rate, compared to state-of-the-art DNA classification tools MetaCache-GPU and Kraken2 respectively. Simulated at 1GHz, DASH-CAM provides 1,178x and 1,040x average speedup over MetaCache-GPU and Kraken2 respectively.},
 	URL = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142},
+	pdf  ={https://www.biorxiv.org/content/10.1101/2023.09.29.560142v1.full.pdf},
         html = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142},
 	eprint = {https://www.biorxiv.org/content/early/2023/10/02/2023.09.29.560142.full.pdf},
 	journal = {bioRxiv},
@@ -381,6 +386,7 @@ To our knowledge, our work is the first one to evaluate ML training on a real-wo
   owner         = {calkan},
   html		= {https://ieeexplore.ieee.org/document/10192521},
   url           = {https://arxiv.org/abs/2302.08284},
+  pdf = {https://asic2.group/wp-content/uploads/2023/07/ClaPIM_Marcel-Khalifa.pdf},
   bibtex_show = true,
   abbr = {IEEE VLSI},
 }
