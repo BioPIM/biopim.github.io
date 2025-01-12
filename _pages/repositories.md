@@ -28,6 +28,7 @@ nav_order: 6
 
 ---
 
+<!--
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -36,5 +37,5 @@ nav_order: 6
     {% include repository/repo_user.html username=user %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
 
