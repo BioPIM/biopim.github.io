@@ -132,7 +132,15 @@
     
 "Román Brenes":
   - firstname: ["Ricardo", "R."]
-    url: http://www.alkanlab.org/team/ricardo-roman-brenes/ 
+    url: http://www.alkanlab.org/team/ricardo-roman-brenes/
+    
+"Sahin":
+  - firstname: ["Berkan", "B.", "B"]
+    url: https://www.alkanlab.org/team/berkan-sahin/
+
+"Şahin"
+  - firstname: ["Berkan", "B.", "B"]
+    url: https://www.alkanlab.org/team/berkan-sahin/
     
 "Ghiasi":
   - firstname: ["Nika Mansouri", "N.", "Nika"] 
@@ -165,5 +173,25 @@
 "Moisson-Franckhauser":
   - firstname: ["Aphélie", "A."]
     url: https://www.linkedin.com/in/a-moisson/
-    
+
+"Simon":
+  - firstname: ["William Andrew", "William", "W.A."]
+    url: https://www.linkedin.com/in/williamsimon1/
+
+"Koliogeorgi":
+  - firstname: ["Konstantina", "K.", "K"]
+    url: https://www.linkedin.com/in/konstantina-koliogeorgi-256965269/
+
+"Shibuya":
+  - firstname: ["Yoshihiro", "Y." "Y"]
+    url: https://www.linkedin.com/in/yoshihiro-shibuya
+
+"Boybat":
+  - firstname: ["Irem", "İrem", "İ.", "I.", "I", "İ"]
+    url: https://www.linkedin.com/in/irem-boybat/
+
+"Sadrosadati":
+  - firstname: ["Mohammad", "M.", "M"]
+    url: https://www.linkedin.com/in/mohammad-sadrosadati-23928a40
+
     
