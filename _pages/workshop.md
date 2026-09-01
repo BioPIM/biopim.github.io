@@ -92,7 +92,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>11:00 - 12:00</td>
       <td>Invited Talk</td>
-      <td>Victoria Popic</td>
+      <td>Victoria Popic (Broad Institute)</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td>
@@ -105,7 +105,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>14:30 - 15:30</td>
       <td>Invited Talk</td>
-      <td>BSC: Santiago Marco-Sola</td>
+      <td>Santiago Marco Sola (BSC)</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">15:30-16:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
@@ -113,7 +113,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>16:00 - 17:00</td>
       <td>Invited Talk</td>
-      <td>Iman Hajirasouliha</td>
+      <td>Iman Hajirasouliha (Cornell University)</td>
     </tr>
     <tr>
       <td>17:00 - 17:30</td>
@@ -155,7 +155,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>11:00 - 12:00</td>
       <td>Partner Talk</td>
-      <td>IBM: William Simon</td>
+      <td>IBM: İrem Boybat</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td> 
@@ -168,7 +168,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>14:30 - 15:30</td>
       <td>Invited Talk</td>
-      <td>Geraldo Francisco de Oliveira Junior</td>
+      <td>Geraldo Francisco de Oliveira Junior (Huawei)</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">15:30-16:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td> 
@@ -176,7 +176,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>16:00 - 17:00</td>
       <td>Invited Talk</td>
-      <td>Christina Giannulla</td>
+      <td>Christina Giannulla (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
     </tr>
     <tr>
       <td>17:00 - 17:30</td>
