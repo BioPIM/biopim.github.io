@@ -52,9 +52,9 @@ nav: false
   }
 </style>
 
-A two day workshop on leveraging Processing in Memory (PIM) techniques to accelerate genomic applications, held in Bilkent University, Ankara, Turkey. Listen to talks from **BioPIM partners** and **invited speakers** from different institutions.
+A two day workshop on leveraging Processing in Memory (PIM) techniques to accelerate genomic applications, held in Bilkent University, Ankara, Turkey.  The workshop is open to the public. Undergraduate and graduate students are welcome to attend and listen to talks from **BioPIM partners** and **invited speakers** from different institutions.
 
-Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://forms.gle/YHYkxNvGa1oxKXCW7)
+Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://forms.gle/YHYkxNvGa1oxKXCW7)
 
 ### Day 1: Tuesday, October 6, 2026
 
