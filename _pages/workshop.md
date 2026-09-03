@@ -143,7 +143,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>09:00 - 10:00</td>
       <td>Partner Talk</td>
-      <td>CNRS: Dominique Lavenier <br> Implementation of genomic algorithms on UPMEM architectures</td>
+      <td>IBM: İrem Boybat <br> In-Memory Computing for Efficient AI: From Edge Inference to Large-Scale Systems</td>
     </tr>
     <tr>
       <td>10:00 - 10:30</td>
@@ -152,10 +152,10 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr class="break-row">
       <td colspan="3">10:30-11:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
     </tr>
-    <tr>
       <td>11:00 - 12:00</td>
       <td>Partner Talk</td>
-      <td>IBM: İrem Boybat</td>
+      <td>CNRS: Dominique Lavenier <br> Implementation of genomic algorithms on UPMEM architectures</td>
+    <tr>
     </tr>
     <tr class="break-row">
       <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td> 
