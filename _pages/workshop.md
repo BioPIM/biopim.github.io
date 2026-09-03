@@ -143,7 +143,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>09:00 - 10:00</td>
       <td>Partner Talk</td>
-      <td>CNRS: Dominique Lavenier</td>
+      <td>CNRS: Dominique Lavenier <br> Implementation of genomic algorithms on UPMEM architectures</td>
     </tr>
     <tr>
       <td>10:00 - 10:30</td>
