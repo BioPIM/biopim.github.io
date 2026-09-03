@@ -113,7 +113,7 @@ Register using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://form
     <tr>
       <td>16:00 - 17:00</td>
       <td>Invited Talk</td>
-      <td>Iman Hajirasouliha (Cornell University)</td>
+      <td>Iman Hajirasouliha (Weill Cornell Medicine)</td>
     </tr>
     <tr>
       <td>17:00 - 17:30</td>
