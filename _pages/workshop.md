@@ -95,7 +95,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
       <td>Victoria Popic (Broad Institute)</td>
     </tr>
     <tr class="break-row">
-      <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td>
+      <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break (on your own)</td>
     </tr>
     <tr>
       <td>13:30 - 14:30</td>
@@ -158,7 +158,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
     </tr>
     <tr class="break-row">
-      <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td> 
+      <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break (on your own)</td> 
     </tr>
     <tr>
       <td>13:30 - 14:30</td>
