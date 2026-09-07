@@ -105,7 +105,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>14:30 - 15:30</td>
       <td>Invited Talk</td>
-      <td>Santiago Marco Sola (BSC)</td>
+      <td>Santiago Marco Sola (BSC) <br> Computing Where It Matters: Rethinking Genomic Index Search and Alignment for Processing Near Memory</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">15:30-16:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
