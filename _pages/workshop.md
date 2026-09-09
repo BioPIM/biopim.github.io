@@ -174,8 +174,8 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     </tr>
     <tr>
       <td>13:30 - 14:30</td>
-      <td>Partner Talk</td>
-      <td>ETH: Onur Mutlu</td>
+      <td>Invited Talk</td>
+      <td>Christina Giannulla (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
@@ -186,14 +186,14 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
       <td colspan="3">15:30-16:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td> 
     </tr>
     <tr>
-      <td>16:00 - 17:00</td>
-      <td>Invited Talk</td>
-      <td>Christina Giannulla (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
-    </tr>
-    <tr>
-      <td>17:00 - 17:30</td>
+      <td>16:00 - 16:30</td>
       <td>Short Talk</td>
       <td>Nika Mansouri Ghiasi</td>
+    </tr>
+    <tr>
+      <td>16:30 - 17:30</td>
+      <td>Partner Talk</td>
+      <td>ETH: Onur Mutlu</td>
     </tr>
   </tbody>
 </table>
