@@ -193,7 +193,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>16:30 - 17:30</td>
       <td>Partner Talk</td>
-      <td>ETH: Onur Mutlu</td>
+      <td>ETH: Onur Mutlu <br> Accelerating Genome Analysis via Algorithm-Architecture Co-Design</td>
     </tr>
   </tbody>
 </table>
