@@ -100,7 +100,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>13:30 - 14:30</td>
       <td>Partner Talk</td>
-      <td>Institut Pasteur: Yoshihiro Shibuya</td>
+      <td>Institut Pasteur: Yoshihiro Shibuya <br> Rethinking Bioinformatics at Scale: Exploring Processing Near Memory with UPMEM</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
@@ -117,7 +117,8 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     </tr>
     <tr>
       <td>17:00 - 17:30</td>
-      <td colspan="2">Short Talk</td>
+      <td>Short Talk</td>
+      <td>Arda Söylev <br> Large-scale pangenomics in the post-linear era</td>
     </tr>
   </tbody>
 </table>
