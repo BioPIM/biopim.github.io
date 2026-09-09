@@ -32,9 +32,9 @@ nav: false
   }
 
   /* Column widths */
-  table.agenda-table col:nth-child(1) { width: 15%; } /* Time */
-  table.agenda-table col:nth-child(2) { width: 35%; } /* Speaker */
-  table.agenda-table col:nth-child(3) { width: 50%; } /* Title */
+  table.agenda-table colgroup col:nth-child(1) { width: 15%; } /* Time */
+  table.agenda-table colgroup col:nth-child(2) { width: 20%; } /* Speaker */
+  table.agenda-table colgroup col:nth-child(3) { width: 65%; } /* Title */
 
   /* Styling for Break rows */
   tr.break-row {
@@ -64,6 +64,11 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
 </details>
 
 <table class="agenda-table">
+   <colgroup>
+       <col span="1">
+       <col span="1">
+       <col span="1">
+    </colgroup>
   <thead>
     <tr>
       <th>Time</th>
@@ -133,6 +138,11 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
 </details>
 
 <table class="agenda-table">
+   <colgroup>
+       <col span="1">
+       <col span="1">
+       <col span="1">
+    </colgroup>
   <thead>
     <tr>
       <th>Time</th>
