@@ -54,14 +54,14 @@ nav: false
 
 A two day workshop on leveraging Processing in Memory (PIM) techniques to accelerate genomic applications, held in Bilkent University, Ankara, Turkey.  The workshop is open to the public. Undergraduate and graduate students are welcome to attend and listen to talks from **BioPIM partners** and **invited speakers** from different institutions.
 
-Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://forms.gle/YHYkxNvGa1oxKXCW7)
-
-### Day 1: Tuesday, October 6, 2026
-
 <details>
 <summary><b>Location: Mithat Çoruh Auditorium, EB Building</b></summary>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d765.528046558547!2d32.749266558258!3d39.871724912281614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3471028d6b455%3A0xa5e457b20f48eef2!2sMithat%20%C3%87oruh%20Amfi!5e0!3m2!1sen!2str!4v1788171604765!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </details>
+
+Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://forms.gle/YHYkxNvGa1oxKXCW7)
+
+### Day 1: Tuesday, October 6, 2026
 
 <table class="agenda-table">
    <colgroup>
@@ -131,11 +131,6 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
 <br>
 
 ### Day 2: Wednesday, October 7, 2026
-
-<details>
-<summary><b>Location: EE-01</b></summary>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d348.4694030086184!2d32.750617204555546!3d39.87203825854572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d3470fe7683f31%3A0x57cb3501690a3002!2sDepartment%20of%20Electrical%20and%20Electronics%20Engineering!5e0!3m2!1sen!2str!4v1788171658458!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-</details>
 
 <table class="agenda-table">
    <colgroup>
