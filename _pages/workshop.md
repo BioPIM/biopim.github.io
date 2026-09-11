@@ -170,7 +170,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>13:30 - 14:30</td>
       <td>Invited Talk</td>
-      <td>Christina Giannulla (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
+      <td>Christina Giannnoula (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
