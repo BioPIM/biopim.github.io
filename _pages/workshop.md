@@ -89,7 +89,8 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     </tr>
     <tr>
       <td>10:00 - 10:30</td>
-      <td colspan="2">Short Talk</td>
+      <td>Short Talk</td>
+      <td>Alejandro Marin (BSC) <br> Genome database sequence search using near-memory processing</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">10:30-11:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
