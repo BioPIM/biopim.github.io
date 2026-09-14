@@ -119,7 +119,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>16:00 - 17:00</td>
       <td>Invited Talk</td>
-      <td>Iman Hajirasouliha (Weill Cornell Medicine)</td>
+      <td>Iman Hajirasouliha (Weill Cornell Medicine) <br> A Modular Metagenomics Analysis Pipeline with Application to MetaSUB and Microbiome-in-a-bottle</td>
     </tr>
     <tr>
       <td>17:00 - 17:30</td>
