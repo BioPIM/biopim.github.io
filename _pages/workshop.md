@@ -176,7 +176,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>14:30 - 15:30</td>
       <td>Invited Talk</td>
-      <td>Geraldo Francisco de Oliveira Junior (Huawei)</td>
+      <td>Geraldo Francisco de Oliveira Junior (Huawei) <br> Characterizing and Accelerating Memory-Intensive Workloads via Memory-Centric Architectures</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">15:30-16:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td> 
