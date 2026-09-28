@@ -85,7 +85,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>09:05 - 10:00</td>
       <td>Partner Talk</td>
-      <td>Bilkent University: Can Alkan</td>
+      <td>Bilkent University: Can Alkan <br> The BioPIM Project: Aims, Progress, Results</td>
     </tr>
     <tr>
       <td>10:00 - 10:30</td>
