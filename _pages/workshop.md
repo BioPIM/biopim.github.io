@@ -61,7 +61,10 @@ A two day workshop on leveraging Processing in Memory (PIM) techniques to accele
 
 Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](https://forms.gle/YHYkxNvGa1oxKXCW7)
 
+This event will be broadcast live on the [BioPIM YouTube channel](https://www.youtube.com/@biopim).
+
 ### Day 1: Tuesday, October 6, 2026
+Livestream link: [https://www.youtube.com/watch?v=TLeuKD_CQUU](https://www.youtube.com/watch?v=TLeuKD_CQUU).
 
 <table class="agenda-table">
    <colgroup>
@@ -132,6 +135,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
 <br>
 
 ### Day 2: Wednesday, October 7, 2026
+Livestream link: [https://www.youtube.com/watch?v=EWSyY-uwXS4](https://www.youtube.com/watch?v=EWSyY-uwXS4).
 
 <table class="agenda-table">
    <colgroup>
@@ -184,12 +188,12 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>16:00 - 16:30</td>
       <td>Short Talk</td>
-      <td>Nika Mansouri Ghiasi (ETH) <br> Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analysis</td>
+      <td>Nika Mansouri Ghiasi (ETH Zurich) <br> Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analysis</td>
     </tr>
     <tr>
       <td>16:30 - 17:30</td>
       <td>Partner Talk (online)</td>
-      <td>ETH: Onur Mutlu <br> Accelerating Genome Analysis via Algorithm-Architecture Co-Design</td>
+      <td>ETH Zurich: Onur Mutlu <br> Accelerating Genome Analysis via Algorithm-Architecture Co-Design</td>
     </tr>
   </tbody>
 </table>
