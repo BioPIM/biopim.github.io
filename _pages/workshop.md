@@ -98,7 +98,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>11:00 - 12:00</td>
       <td>Invited Talk</td>
-      <td>Victoria Popic (Broad Institute)</td>
+      <td>Victoria Popic (Broad Institute) <br> The Deep Learning SV Discovery Stack: Data Representations, Models, and Acceleration Opportunities</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">12:00-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break (on your own)</td>
