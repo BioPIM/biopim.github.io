@@ -184,7 +184,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>16:00 - 16:30</td>
       <td>Short Talk</td>
-      <td>Nika Mansouri Ghiasi</td>
+      <td>Nika Mansouri Ghiasi <br> Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analysis</td>
     </tr>
     <tr>
       <td>16:30 - 17:30</td>
