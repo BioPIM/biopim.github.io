@@ -124,7 +124,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>17:00 - 17:30</td>
       <td>Short Talk</td>
-      <td>Arda Söylev <br> Large-scale pangenomics in the post-linear era</td>
+      <td>Arda Söylev (Necmettin Erbakan University) <br> Large-scale pangenomics in the post-linear era</td>
     </tr>
   </tbody>
 </table>
