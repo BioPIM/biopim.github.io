@@ -155,7 +155,7 @@ Register for free using the form here: [https://forms.gle/YHYkxNvGa1oxKXCW7](htt
     <tr>
       <td>10:00 - 10:30</td>
       <td>Short Talk</td>
-      <td>Orhun Görkem (IBM)</td>
+      <td>Orhun Görkem (IBM) <br> In-Memory Computing for Efficient AI: From Edge Inference to Large-Scale Systems – Part 2</td>
     </tr>
     <tr class="break-row">
       <td colspan="3">10:30-11:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
