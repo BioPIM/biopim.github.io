@@ -175,7 +175,7 @@ Livestream link: [https://www.youtube.com/watch?v=EWSyY-uwXS4](https://www.youtu
     <tr>
       <td>13:30 - 14:30</td>
       <td>Invited Talk</td>
-      <td>Christina Giannnoula (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
+      <td>Christina Giannoula (Max Planck Institute) <br> Towards a Programmable Data-Centric AI Stack for Processing-In-Memory Architectures</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
