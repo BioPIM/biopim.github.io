@@ -1,21 +1,25 @@
 ---
 ---
-@Article{Position2026,
-  author={Simon, William Andrew and Yavits, Leonid and Koliogeorgi, Konstantina and Falevoz, Yann and Shibuya, Yoshihiro and Lavenier, Dominique and Boybat, Irem and Zambaku, Klea and Şahin, Berkan and Sadrosadati, Mohammad and Mutlu, Onur and Sebastian, Abu and Chikhi, Rayan and Consortium, The BioPIM and Alkan, Can},
-  journal={IEEE Micro}, 
-  title={Processing-in-Memory for Genomics Workloads}, 
-  year={2026},
-  volume={46},
-  number={2},
-  pages={70-80},
-  abstract={Low-cost, high-throughput DNA and RNA sequencing data are the backbone of the life sciences. Genome sequencing is now becoming a part of predictive, preventive, personalized, and participatory (termed “P4”) medicine. All genomic data are currently processed in energy-hungry computer clusters and centers, necessitating data transfer, consuming substantial energy, and wasting valuable time. Therefore, there is a need for fast, energy-efficient, and cost-efficient technologies that enable genomics research without requiring data centers and cloud platforms. We recently launched the BioPIM Project to leverage emerging processing-in-memory (PIM) technologies to enable energy- and cost-efficient analysis of bioinformatics workloads. The BioPIM Project focuses on codesigning algorithms and data structures commonly used in genomics with several PIM architectures to achieve the highest cost, energy, and time savings.},
-  keywords={Bioinformatics;Genomics;Sequential analysis;DNA;Memory management;Servers;Energy efficiency;Arrays;Sequences;RNA;Throughput},
-  doi={10.1109/MM.2026.3662105},
-  ISSN={1937-4143},
-  month={March},
-  bibtex_show=true,
-  abbr={IEEE Micro},
+
+@article{sahin_indepth_2026,
+      title={In-depth data movement characterization of DNA read mapping algorithms}, 
+      author={Berkan Şahin and Ecem İlgün and Klea Zambaku and Can Alkan},
+      year={2026},
+      month=nov,
+      eprint={2611.03400},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      journal={arXiv},
+      abstract={Read mapping algorithms represent a critical bottleneck in genomic analysis pipelines due to the resources required; a problem that is becoming more pronounced as sequencing technologies advance and datasets expand. We present an extensive workload characterization of leading read mapping algorithms across diverse sequencing technologies to identify hardware acceleration and optimization opportunities. We analyzed the following implementations: MashMap, wfmash, and Minimap2 for whole-genome alignment (WGA); NGMLR, Minimap2, and LRA for long reads; and Bowtie2, BWA-MEM, StrobeAlign, and minibwa for short reads. We used the Intel VTune Profiler for detailed memory analysis to identify memory- bound functions, cache usage patterns, and data transfer bottlenecks. We further analyzed a selected subset of alignment tools using the DAMOV-SIM simulator to obtain a more granular view of data movement characteristics for two different cache structures. Based on our results, Minimap2 emerges as the fastest alignment tool for long read scenarios, but falls behind in whole-genome alignment due to poor multithreading. Across all three categories, some programs (e.g., LRA, BWA-MEM) are highly memory-bound. More in-depth analysis via DAMOV-SIM revealed that some memory-bound tools, in particular, do not fully utilize the multi-level cache hierarchy in modern multi-core CPU architectures. Our results show that while some tools require algorithmic redesign for performance gains, some others can benefit from running on PIM architectures.},
+      url={https://arxiv.org/abs/2611.03400}, 
+      html={https://arxiv.org/abs/2611.03400}, 
+      pdf={https://arxiv.org/pdf/2611.03400}, 
+      bibtex_show = true,
+      show_url = true,
+      abbr = {arXiv},
+      doi={10.48550/arXiv.2611.03400},
 }
+
 
 
 @article{bingol_bruijn_2026,
@@ -72,6 +76,23 @@
 	show_url=true,
 	bibtex_show=true,
 	abbr={Genome Biology}
+}
+
+@Article{Position2026,
+  author={Simon, William Andrew and Yavits, Leonid and Koliogeorgi, Konstantina and Falevoz, Yann and Shibuya, Yoshihiro and Lavenier, Dominique and Boybat, Irem and Zambaku, Klea and Şahin, Berkan and Sadrosadati, Mohammad and Mutlu, Onur and Sebastian, Abu and Chikhi, Rayan and Consortium, The BioPIM and Alkan, Can},
+  journal={IEEE Micro}, 
+  title={Processing-in-Memory for Genomics Workloads}, 
+  year={2026},
+  volume={46},
+  number={2},
+  pages={70-80},
+  abstract={Low-cost, high-throughput DNA and RNA sequencing data are the backbone of the life sciences. Genome sequencing is now becoming a part of predictive, preventive, personalized, and participatory (termed “P4”) medicine. All genomic data are currently processed in energy-hungry computer clusters and centers, necessitating data transfer, consuming substantial energy, and wasting valuable time. Therefore, there is a need for fast, energy-efficient, and cost-efficient technologies that enable genomics research without requiring data centers and cloud platforms. We recently launched the BioPIM Project to leverage emerging processing-in-memory (PIM) technologies to enable energy- and cost-efficient analysis of bioinformatics workloads. The BioPIM Project focuses on codesigning algorithms and data structures commonly used in genomics with several PIM architectures to achieve the highest cost, energy, and time savings.},
+  keywords={Bioinformatics;Genomics;Sequential analysis;DNA;Memory management;Servers;Energy efficiency;Arrays;Sequences;RNA;Throughput},
+  doi={10.1109/MM.2026.3662105},
+  ISSN={1937-4143},
+  month={March},
+  bibtex_show=true,
+  abbr={IEEE Micro},
 }
 
 @ARTICLE{simon_cimba_2025,
