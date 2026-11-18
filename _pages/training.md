@@ -5,7 +5,7 @@ permalink: /training/
 description:
 nav: true
 nav_order: 4
-display_categories: [BIOPIM Workshop, Conference Talks, Processing-in-Memory Technologies, Courses, Data structures & algorithms in bioinformatics, Accelerating bioinformatics]
+display_categories: [BioPIM Workshop, Conference Talks, Processing-in-Memory Technologies, Courses, Data structures & algorithms in bioinformatics, Accelerating bioinformatics]
 horizontal: false
 ---
 
