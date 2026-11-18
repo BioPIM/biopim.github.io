@@ -9,7 +9,7 @@ nav_order: 2
 
 # External Expert Advisory Board
 
-The following board of experts provide a valuable outside opinion on the progress and objectives of the BioPIM project.
+The following board of experts provided a valuable outside opinion on the progress and objectives of the BioPIM project.
 
 ## [Jared Simpson](https://oicr.on.ca/researchers/jared-simpson/)
 
@@ -27,7 +27,7 @@ The Simpson lab develops algorithms and software for the analysis of high-throug
 
 Pennsylvania State University
 
-Paul Medvedev is an Associate Professor in the Department of Computer Science and Engineering and the Department of Biochemistry and Molecular Biology and the Director of the Center for Computational Biology and Bioinformatics at the Pennsylvania State University. His research focus is on developing computer science techniques for analysis of biological data and on answering fundamental biological questions using such methods.
+Paul Medvedev is a Professor in the Department of Computer Science and Engineering and the Department of Biochemistry and Molecular Biology and the Director of the Center for Computational Biology and Bioinformatics at the Pennsylvania State University. His research focus is on developing computer science techniques for analysis of biological data and on answering fundamental biological questions using such methods.
 
 <br clear="left"/>
 
