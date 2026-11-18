@@ -13,12 +13,26 @@ category: Conference Talks
 
 ---
 
-* **[CGSI 2024](https://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2024/)** Can Alkan: Acceleration of bioinformatics workloads through hardware-algorithm co-design and processing-in-memory
+* **[CGSI 2025](http://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2025/)** Can Alkan: Acceleration of bioinformatics workloads
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYs_eKXokdQ?si=UYBHXQXY2JlEcJgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
+* **[CGSI 2025](http://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2025/)** Rayan Chikhi: Living in the past of Genomics - History of k-mers in bioinformatics
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sN1B6l6rtMk?si=mZ5Fdk48F6Utzfu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* **[CGSI 2025](http://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2025/)** Rayan Chikhi: Tutorial on accessing SRA data
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-8L_hFWXCQ?si=k0xT_zDkqAynflxW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+* **[CGSI 2024](http://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2024/)** Can Alkan: Acceleration of bioinformatics workloads through hardware-algorithm co-design and processing-in-memory
  technologies
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lSHTQbA7-s?si=RGuP4TbfkU6x1wlf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
-* **[CGSI 2024](https://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2024/)** Rayan Chikhi: Project Logan Assembling all public sequencing data
+* **[CGSI 2024](http://computationalgenomics.bioinformatics.ucla.edu/resources/cgsi-2024/)** Rayan Chikhi: Project Logan Assembling all public sequencing data
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-8L_hFWXCQ?si=k0xT_zDkqAynflxW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
