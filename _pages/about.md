@@ -21,19 +21,22 @@ social: true  # includes social icons at the bottom of the page
 
 # About
 
-**BioPIM** project aims to leverage the emerging processing-in-memory (PIM) technologies to enable powerful edge computing. We will focus on co-designing algorithms and data structures commonly used in bioinformatics together with several types of PIM architectures to obtain the highest benefit in cost, energy, and time savings. BioPIM will also impact other fields that employ similar algorithms. Our designs and algorithms will not be limited to cheap hardware, and they will impact computation efficiency on all forms of computing environments including cloud platforms.
+**The BioPIM project ended on October 31, 2026. The project website is kept online to share our results with the community.**
 
-The vision of **BioPIM** is the realization of cheap, ultra-fast and ultra-low energy mobile genomics that eliminates the current dependence of sequence analysis on large and power-hungry computing clusters/data-centers.
+**BioPIM** project aimed to leverage the emerging processing-in-memory (PIM) technologies to enable powerful edge computing. We focused on co-designing algorithms and data structures commonly used in bioinformatics together with several types of PIM architectures to obtain the highest benefit in cost, energy, and time savings. BioPIM also impacted other fields that employ similar algorithms. Our designs and algorithms were not limited to cheap hardware, and they impacted computation efficiency on all forms of computing environments including cloud platforms.
 
-The targeted breakthrough of **BioPIM** is to invent and leverage in-memory computing architectures to fundamentally improve the performance and energy efficiency of various important bioinformatics algorithms to make mobile genomics a reality, focusing on 
+The vision of **BioPIM** was the realization of cheap, ultra-fast and ultra-low energy mobile genomics to eliminate the dependence of sequence analysis on large and power-hungry computing clusters/data-centers.
+
+The targeted breakthrough of **BioPIM** was to invent and leverage in-memory computing architectures to fundamentally improve the performance and energy efficiency of various important bioinformatics algorithms to make mobile genomics a reality, focusing on 
 
 * in-memory alignment and search,
 * in-memory global and local genome assembly, 
 * in-memory pangenome analysis, and 
 * in-memory variation calling and base calling.
 
+
 # Objectives
 
-* **Objective 1:** Optimizing data structures and algorithms commonly used in genomics for in-memory computing. These data structures include de Bruijn and string graphs, Bloom filters, Counting Quotient Filters (CQF), Burrows-Wheeler Transformation (BWT), and FM-index. Our redesigns will also include algorithms for the operations supported by each data structure. Algorithms will include both combinatorial (alignment, search, pangenomics), and machine learning / deep learning-based methodologies (variation calling, basecalling).
-* **Objective 2:**  Hardware/software co-development of common bioinformatics algorithms used in genomics for in-memory architectures, such as global and local alignment, text-pattern search, approximate pattern search (i.e., read mapping), graph traversal, and using graphs for assembly and pangenome analysis. This aim will include both PIM architecture design and PIM-enabled software development.
-* **Objective 3:** PIM prototypes and software development that employ the designed architecture.
+* **Objective 1:** Optimizing data structures and algorithms commonly used in genomics for in-memory computing. These data structures included de Bruijn and string graphs, Bloom filters, Counting Quotient Filters (CQF), Burrows-Wheeler Transformation (BWT), and FM-index. Our redesigns also included algorithms for the operations supported by each data structure. Algorithms included both combinatorial (alignment, search, pangenomics), and machine learning / deep learning-based methodologies (variation calling, basecalling).
+* **Objective 2:**  Hardware/software co-development of common bioinformatics algorithms used in genomics for in-memory architectures, such as global and local alignment, text-pattern search, approximate pattern search (i.e., read mapping), graph traversal, and using graphs for assembly and pangenome analysis. This aim included both PIM architecture design and PIM-enabled software development.
+* **Objective 3:** PIM prototypes and software development that employed the designed architecture.
